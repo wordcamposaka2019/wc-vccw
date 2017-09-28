@@ -15,17 +15,17 @@ cpus: 1
 #
 # Network Settings
 #
-hostname: japan.wordcamp.test
-ip: 192.168.108.108
+hostname: vccw.test
+ip: 192.168.33.10
 
 #
 # WordPress Settings
 #
 version: latest
-lang: ja
-title: 日本語 — WordPress
+lang: en_US
+title: Welcome to the VCCW
 multisite: false
-rewrite_structure: /%year%/%monthnum%/%day%/%postname%/
+rewrite_structure: /archives/%post_id%
 
 #
 # WordPress Path
@@ -36,9 +36,9 @@ wp_home: ''     # Path to the WP_HOME like "wp"
 #
 # WordPress User
 #
-admin_user: vccw
-admin_pass: vccw
-admin_email: wcj@japan.wordcamp.test
+admin_user: admin
+admin_pass: admin
+admin_email: vccw@example.com
 
 #
 # WordPress Database
@@ -53,21 +53,19 @@ db_pass: wordpress
 # WordPress Default Plugins
 # Plugin's slug or url to the plugin's slug.
 #
-plugins: [
-  gutenberg
-]
+plugins: []
 
 #
 # WordPress Default Theme
 # Theme's slug or url to the theme's .zip.
 #
-theme: 'twentyfifteen'
+theme: ''
 
 #
 # WordPress Options
 #
 options:
-  blogdescription: 'WordPress 日本語ローカルサイトブログ.'
+  blogdescription: Hello VCCW.
 
 #
 # WordPress Multisite Options
@@ -81,7 +79,7 @@ force_ssl_admin: false
 wp_debug: true
 savequeries: false
 
-gitignore: ''
+gitignore: https://raw.githubusercontent.com/github/gitignore/master/WordPress.gitignore
 
 #
 # Addtional PHP code in the wp-config.php
@@ -94,8 +92,9 @@ extra_wp_config: |
 #
 # Theme unit testing
 #
-theme_unit_test: true
-theme_unit_test_uri: https://raw.githubusercontent.com/jawordpressorg/theme-test-data-ja/master/wordpress-theme-test-date-ja.xml
+theme_unit_test: false
+theme_unit_test_uri: https://raw.githubusercontent.com/WPTRT/theme-unit-test/master/themeunittestdata.wordpress.xml
+# theme_unit_test_uri: https://raw.githubusercontent.com/jawordpressorg/theme-test-data-ja/master/wordpress-theme-test-date-ja.xml
 
 #
 # DB will be reset when provision
@@ -106,9 +105,11 @@ reset_db_on_provision: true
 # RubyGems
 # Wordmove will be forcibly installed.
 #
-ruby_gems: []
+ruby_gems:
+  - bundler
+  - wordmove
 
-mailcatcher: false
+mailcatcher: true
 
 wp_i18n_tools: true
 
@@ -120,14 +121,49 @@ npms: []
 #
 # composer
 #
-composers: []
+composers:
+  - phpunit/phpunit:5.6
+  - squizlabs/php_codesniffer:~2.0
+  - wp-coding-standards/wpcs:*
+  # - phpmd/phpmd:*
+  # - sebastian/phpcpd:*
+  # - phploc/phploc:*
+  # - phing/phing:*
 
 #
 # wp-cli package commands
 #
-wp_cli_packages: []
+wp_cli_packages:
+  - vccw/wp-cli-scaffold-movefile:@stable
 
 #
 # Linked Clone for Vagrant v1.8
 #
-linked_clone: true
+linked_clone: false
+
+#
+# Advanced Settings
+#
+
+#
+# PHP ini values
+#
+php_ini:
+  date.timezone: UTC
+  default_charset: UTF-8
+  mbstring.language: neutral
+  mbstring.internal_encoding: UTF-8
+  post_max_size: 1024M # Same with VVV
+  short_open_tag: Off
+  session.save_path: /tmp
+  upload_max_filesize: 1024M # Same with VVV
+  xdebug.remote_enable: true
+  xdebug.remote_host: 127.0.0.1
+  xdebug.remote_port: 9000
+  xdebug.profiler_enable: true
+  xdebug.idekey: VCCWDEBUG
+  xdebug.remote_connect_back: true
+  xdebug.remote_autostart: true
+
+synced_folder: wordpress
+document_root: /var/www/html
