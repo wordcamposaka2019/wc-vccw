@@ -4,83 +4,65 @@
 #
 # Network Settings
 #
-hostname: vccw.dev
-ip: 192.168.33.10
+hostname: japan.wordcamp.test
+ip: 192.168.108.108
 
 #
 # WordPress Settings
 #
 version: latest
-lang: en_US
-title: Welcome to the VCCW
-multisite: false
-rewrite_structure: /archives/%post_id%
+lang: ja
+title: WordCamp Japan
+rewrite_structure: /%year%/%monthnum%/%day%/%postname%/
 
-#
-# WordPress Path
-#
-wp_siteurl: ''  # Path to the WP_SITEURL like "wp"
-wp_home: ''     # Path to the WP_HOME like "wp"
 
 #
 # WordPress User
 #
-admin_user: admin
-admin_pass: admin
-admin_email: vccw@example.com
+admin_user: vccw
+admin_pass: vccw
+admin_email: wcj@japan.wordcamp.test
 
 #
 # WordPress Default Plugins
 # Plugin's slug or url to the plugin's slug.
 #
-plugins:
-  - debug-bar
+plugins: [
+  gutenberg
+]
 
 #
 # WordPress Default Theme
 # Theme's slug or url to the theme's .zip.
 #
-theme: ''
+theme: 'twentyfifteen'
 
 #
 # WordPress Options
 #
 options:
-  blogdescription: Hello VCCW.
-
-#
-# WordPress Multisite Options
-#
-multisite_options: {}
-
-#
-# The values of wp-config.php
-#
-force_ssl_admin: false
-wp_debug: true
-savequeries: false
-
-#
-# Addtional PHP code in the wp-config.php
-#
-extra_wp_config: |
-  // Addtional PHP code in the wp-config.php
-  // These lines are inserted by VCCW.
-  // You can place addtional PHP code here!
+  blogdescription: 'WordPress イベント「WordCamp」の日本語公式サイト'
 
 #
 # Theme unit testing
 #
-theme_unit_test: false
-theme_unit_test_uri: https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml
-# theme_unit_test_uri: https://raw.githubusercontent.com/jawordpressorg/theme-test-data-ja/master/wordpress-theme-test-date-ja.xml
+theme_unit_test: true
+theme_unit_test_uri: https://raw.githubusercontent.com/jawordpressorg/theme-test-data-ja/master/wordpress-theme-test-date-ja.xml
+
+#
+# DB will be reset when provision
+#
+reset_db_on_provision: true
 
 #
 # RubyGems
+# Wordmove will be forcibly installed.
 #
-ruby_gems:
-  - bundler
-  - wordmove
+ruby_gems: []
+
+mailcatcher: false
+
+wp_i18n_tools: true
 
 #
 # NPM modules
@@ -90,18 +72,14 @@ npms: []
 #
 # composer
 #
-composers:
-  - hirak/prestissimo:*
-  - phpunit/phpunit:*
-  - squizlabs/php_codesniffer:*
-  - wp-coding-standards/wpcs:*
-  # - phpmd/phpmd:*
-  # - sebastian/phpcpd:*
-  # - phploc/phploc:*
-  # - phing/phing:*
+composers: []
 
 #
 # wp-cli package commands
 #
-wp_cli_packages:
-  - vccw/wp-cli-scaffold-movefile:@stable
+wp_cli_packages: []
+
+#
+# Linked Clone for Vagrant v1.8
+#
+linked_clone: true
