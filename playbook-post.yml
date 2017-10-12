@@ -3,7 +3,12 @@
 
   tasks:
 
+  - stat:
+      path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme/.git"
+    register: theme
+
   - name: Clone Theme
+    when: theme.stat.exists != true
     git:
       repo: https://github.com/jawordpressorg/wordcamp-japan-theme.git
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme"
