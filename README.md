@@ -1,9 +1,12 @@
-# VCCW
+# WordCamp Japan meta environment (powerd by VCCW)
 
-[![Build Status](https://travis-ci.org/vccw-team/vccw.svg?branch=master)](https://travis-ci.org/vccw-team/vccw)
+## Getting started
 
-This is a Vagrant configuration designed for development of WordPress plugins, themes, or websites.
-
+```
+$ git clone git@github.com:wcj-dev/wcj-vccw.git
+$ cd wcj-vccw
+$ vagrant up
+```
 To get started, check out <http://vccw.cc/>
 
 ## Configuration
