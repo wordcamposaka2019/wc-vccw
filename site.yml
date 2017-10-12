@@ -29,6 +29,7 @@ admin_email: wcj@japan.wordcamp.test
 #
 plugins: [
   gutenberg
+  jetpack
 ]
 
 #

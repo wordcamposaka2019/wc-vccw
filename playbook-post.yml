@@ -6,7 +6,7 @@
   - name: Clone Theme
     git:
       repo: https://github.com/jawordpressorg/wordcamp-japan-theme.git
-      dest: "{{ vccw.document_root }}/wp-content/themes/wordcamp-japan-theme"
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme"
 
   - name: wp theme activate
     command: "wp theme activate wordcamp-japan-theme"
