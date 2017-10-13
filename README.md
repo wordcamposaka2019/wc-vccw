@@ -6,17 +6,17 @@
 $ git clone git@github.com:wcj-dev/wcj-vccw.git
 $ cd wcj-vccw
 $ vagrant up
-```
-To get started, check out <http://japan.wordcamp.test/>
-
-## Advanced 
-
-```
 $ npm install
 $ npm start
 ```
+To get started, check out <http://japan.wordcamp.test/>
 
 Start development on <http://localhost:3000/> !
+
+## npm commands
+
+* `npm start` start browser sync.
+* `npm run build` Build scss in `wordpress/wp-content/themes/wordcamp-japan-theme/scss`.
 
 ## Configuration
 
