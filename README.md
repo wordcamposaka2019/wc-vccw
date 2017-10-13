@@ -1,4 +1,4 @@
-# WordCamp Japan meta environment (powerd by VCCW)
+# WordCamp Japan meta environment (powered by VCCW)
 
 ## Getting started
 
@@ -7,7 +7,16 @@ $ git clone git@github.com:wcj-dev/wcj-vccw.git
 $ cd wcj-vccw
 $ vagrant up
 ```
-To get started, check out <http://vccw.cc/>
+To get started, check out <http://japan.wordcamp.test/>
+
+## Advanced 
+
+```
+$ npm install
+$ npm start
+```
+
+Start development on <http://localhost:3000/> !
 
 ## Configuration
 

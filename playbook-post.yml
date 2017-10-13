@@ -16,4 +16,7 @@
   - name: wp theme activate
     command: "wp theme activate wordcamp-japan-theme"
 
+  - name: Import WordCamp Japan Posts
+    command: "wp import {{ vccw.vagrant_dir }}/wordcampjapan.wordpress.2017-10-12.xml --authors=create"
+
 
