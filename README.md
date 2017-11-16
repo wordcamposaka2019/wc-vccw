@@ -15,7 +15,7 @@ Start development on <http://localhost:3000/> !
 
 ## npm commands
 
-* `npm start` start browser sync.
+* `npm start` start browsersync.
 * `npm run build` Build scss in `wordpress/wp-content/themes/wordcamp-japan-theme/scss`.
 
 ## Configuration
