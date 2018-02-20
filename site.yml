@@ -4,16 +4,16 @@
 #
 # Network Settings
 #
-hostname: japan.wordcamp.test
-ip: 192.168.108.108
+hostname: 2018.osaka.wordcamp.test
+ip: 192.168.20.18
 
 #
 # WordPress Settings
 #
 version: latest
 lang: ja
-title: WordCamp Japan
-rewrite_structure: /%year%/%monthnum%/%day%/%postname%/
+title: Development - WordCamp Osaka 2018
+rewrite_structure: /%postname%/
 
 
 #
@@ -21,7 +21,7 @@ rewrite_structure: /%year%/%monthnum%/%day%/%postname%/
 #
 admin_user: vccw
 admin_pass: vccw
-admin_email: wcj@japan.wordcamp.test
+admin_email: wcosaka2018@wordcamp.test
 
 #
 # WordPress Default Plugins
@@ -29,25 +29,32 @@ admin_email: wcj@japan.wordcamp.test
 #
 plugins: [
   gutenberg
+  akismet
+  camptix-pagseguro
+  camptix-payfast-gateway
   jetpack
+  json-rest-api
+  wp-multibyte-patch
+  wordpress-importer
+  tagregator
 ]
 
 #
 # WordPress Default Theme
 # Theme's slug or url to the theme's .zip.
 #
-theme: 'twentyfifteen'
+theme: 'twentyseventeen'
 
 #
 # WordPress Options
 #
 options:
-  blogdescription: 'WordPress イベント「WordCamp」の日本語公式サイト'
+  blogdescription: 'Hallo, WordCamp!!'
 
 #
 # Theme unit testing
 #
-theme_unit_test: true
+theme_unit_test: false
 theme_unit_test_uri: https://raw.githubusercontent.com/jawordpressorg/theme-test-data-ja/master/wordpress-theme-test-date-ja.xml
 
 #
