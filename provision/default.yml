@@ -15,8 +15,8 @@ cpus: 1
 #
 # Network Settings
 #
-hostname: vccw.test
-ip: 192.168.33.10
+hostname: year.place.wordcamp.test
+ip: 192.168.20.18
 
 #
 # WordPress Settings
@@ -36,8 +36,8 @@ wp_home: ''     # Path to the WP_HOME like "wp"
 #
 # WordPress User
 #
-admin_user: admin
-admin_pass: admin
+admin_user: vccw
+admin_pass: vccw
 admin_email: vccw@example.com
 
 #
@@ -53,7 +53,17 @@ db_pass: wordpress
 # WordPress Default Plugins
 # Plugin's slug or url to the plugin's slug.
 #
-plugins: []
+plugins: [
+  gutenberg
+  akismet
+  camptix-pagseguro
+  camptix-payfast-gateway
+  jetpack
+  json-rest-api
+  wp-multibyte-patch
+  wordpress-importer
+  tagregator
+]
 
 #
 # WordPress Default Theme
@@ -65,7 +75,7 @@ theme: ''
 # WordPress Options
 #
 options:
-  blogdescription: Hello VCCW.
+  blogdescription: Hello WordCamp.
 
 #
 # WordPress Multisite Options
