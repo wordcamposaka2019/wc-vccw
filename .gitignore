@@ -9,5 +9,6 @@
 npm-debug.log
 package.box
 playbook.retry
+playbook-post.retry
 wordpress
 node_modules
