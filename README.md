@@ -1,10 +1,10 @@
-# WordCamp Japan meta environment (powered by VCCW)
+# WordCamp Site meta environment (powered by VCCW)
 
 ## Getting started
 
 ```
-$ git clone git@github.com:wcj-dev/wcj-vccw.git
-$ cd wcj-vccw
+$ git clone git@github.com:wcosaka2018/wc-vccw.git
+$ cd wc-vccw
 $ vagrant up
 $ npm install
 $ npm start
@@ -22,6 +22,7 @@ Start development on <http://localhost:3000/> !
 
 1. Copy `provision/default.yml` to `site.yml`.
 1. Edit the `site.yml`.
+1. Edit the `playbook-post.yml`.
 1. Run `vagrant up`.
 
 ### Note
