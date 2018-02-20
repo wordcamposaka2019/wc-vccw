@@ -48,7 +48,7 @@
     git:
       repo: https://github.com/wcosaka2018/wcosaka2018-theme.git
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wcosaka2018-theme"
-      version: develop
+      version: master
 
   - name: wp theme activate
     command: "wp theme activate wcosaka2018-theme"
