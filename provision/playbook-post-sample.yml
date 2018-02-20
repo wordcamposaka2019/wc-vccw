@@ -47,7 +47,7 @@
     when: theme.stat.exists != true
     git:
       repo: https://github.com/YOUR-WORDCAMP-ORGANIZATION-NAME/YOUR-WORDCAMP-THEME-REPOSITORY-NAME.git
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme"
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/YOUR-WORDCAMP-THEME-REPOSITORY-NAME"
       version: develop
 
   - name: wp theme activate
