@@ -24,7 +24,7 @@ ip: 192.168.20.18
 version: latest
 lang: en_US
 title: Welcome to the VCCW
-multisite: false
+multisite: true
 rewrite_structure: /archives/%post_id%
 
 #
