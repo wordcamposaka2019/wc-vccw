@@ -39,9 +39,9 @@
     ignore_errors: yes
 
   - name: wp plugins activate
-    command: "wp plugin activate camptix-network-tools"
-    command: "wp plugin activate email-post-changes"
-    command: "wp plugin activate tagregator"
+    command: "wp plugin activate camptix-network-tools --activate-network"
+    command: "wp plugin activate email-post-changes --activate-network"
+    command: "wp plugin activate tagregator --activate-network"
 
   - name: Clone Your WordCamp Theme from Git
     when: theme.stat.exists != true
