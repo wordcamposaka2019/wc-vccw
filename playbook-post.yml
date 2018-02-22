@@ -26,11 +26,15 @@
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/email-post-changes"
     ignore_errors: yes
 
-  - name: Checkout tagregator plugin from SVN
-    subversion:
-      repo: https://plugins.svn.wordpress.org/tagregator/trunk
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/tagregator"
-    ignore_errors: yes
+#  - name: Checkout tagregator plugin from SVN
+#    subversion:
+#      repo: https://plugins.svn.wordpress.org/tagregator/trunk
+#      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/tagregator"
+#    ignore_errors: yes
+
+  - name: Uninstall wcorg-login-message plugin from SVN
+    command: "rm -rf {{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
+    command: "cd {{ vccw.vagrant_dir }}"
 
   - name: Checkout WordCamp Redux v2 Theme from SVN
     subversion:
@@ -39,19 +43,19 @@
     ignore_errors: yes
 
   - name: wp plugins activate
-    command: "wp plugin activate camptix-network-tools --activate-network"
-    command: "wp plugin activate email-post-changes --activate-network"
-    command: "wp plugin activate tagregator --activate-network"
+    command: "wp plugin activate camptix-network-tools --network"
+    command: "wp plugin activate email-post-changes --network"
+    command: "wp plugin activate tagregator --network"
 
   - name: Clone Your WordCamp Theme from Git
     when: theme.stat.exists != true
     git:
       repo: https://github.com/wcosaka2018/wcosaka2018-theme.git
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wcosaka2018-theme"
-      version: master
+      version: master # Select Branch
 
   - name: wp theme activate
-    command: "wp theme activate wcosaka2018-theme"
+    command: "wp theme enable wcosaka2018-theme --network"
 
   - name: Import Your WordCamp Posts
     command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-02-20.xml --authors=create"
