@@ -1,6 +1,7 @@
 #!/bin/sh
-vagrant destroy
+# destroy="y"
 echo "Reset Default..."
+vagrant destroy
 
 rm -rf .ansible
 rm -rf .vagrant

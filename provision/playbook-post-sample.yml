@@ -5,6 +5,9 @@
 
   - stat:
       path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2/.git"
+    register: theme
+
+  - stat:
       path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme/.git"
     register: theme
 
@@ -13,6 +16,18 @@
       repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/mu-plugins/
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/mu-plugins/"
     ignore_errors: yes
+
+  - vars:
+    - wc-plugins: [ test1, test2, test3 ]
+
+  - name: Checkout WordCamp Plugin from SVN
+    subversion:
+      name: "{{ wc-plugins }}"
+        repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ wc-plugins }}
+      state: present
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ wc-plugins }}"
+      with_items:
+        - {{ wc-plugins }}
 
   - name: Checkout camptix-network-tools plugin from SVN
     subversion:
@@ -26,15 +41,20 @@
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/email-post-changes"
     ignore_errors: yes
 
+  - name: Checkout Camptix plugin from Git
+    when: theme.stat.exists != true
+    git:
+      repo: https://github.com/Automattic/camptix.git
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/camptix"
+      version: master
+
 #  - name: Checkout tagregator plugin from SVN
 #    subversion:
 #      repo: https://plugins.svn.wordpress.org/tagregator/trunk
 #      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/tagregator"
 #    ignore_errors: yes
 
-  - name: Uninstall wcorg-login-message plugin from SVN
-    command: "rm -rf {{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
-    command: "cd {{ vccw.vagrant_dir }}"
+  - file: path={{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php state=absent
 
   - name: Checkout WordCamp Redux v2 Theme from SVN
     subversion:
@@ -42,9 +62,13 @@
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2"
     ignore_errors: yes
 
-  - name: wp plugins activate
+  - name: Activate camptix-network-tools
     command: "wp plugin activate camptix-network-tools --network"
+
+  - name: Activate email-post-changes
     command: "wp plugin activate email-post-changes --network"
+
+  - name: Activate Tagregator
     command: "wp plugin activate tagregator --network"
 
   - name: Clone Your WordCamp Theme from Git
@@ -52,12 +76,16 @@
     git:
       repo: https://github.com/YOUR-WORDCAMP-ORGANIZATION-NAME/YOUR-WORDCAMP-THEME-REPOSITORY-NAME.git
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/YOUR-WORDCAMP-THEME-REPOSITORY-NAME"
-      version: develop  # Select Branch
+      version: master  # Select Branch
 
-  - name: wp theme activate
+  - name: Activate theme
     command: "wp theme activate wordcamp-base-v2 --network"
 
-  - name: Import Your WordCamp Posts
+  - name: Import your WordCamp posts
     command: "wp import {{ vccw.vagrant_dir }}/YOUR-WORDCAMP-POST.xml --authors=create"
 
+  - name: Uninstall plugin "Hello Dolly"
+    command: "wp plugin uninstall hello --network"
 
+  - name: Activate all plugin
+    command: "wp plugin activate --all --network"
