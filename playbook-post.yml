@@ -20,35 +20,35 @@
   - name: Checkout WordCamp Plugin from SVN
     vars:
       wc_plugins: [
-        bbpress-network-templates
-        camptix-admin-flags
-        camptix-attendance
-        camptix-badge-generator
-        camptix-mailchimp
-        email-post-changes-specific-post
-        jquery-ui-css
-        multi-event-sponsors
-        wc-canonical-years
-        wc-fonts
-        wc-posttypes
-        wcpt
-        wordcamp-api
-        wordcamp-coming-soon-page
-        wordcamp-dashboard-widgets
-        wordcamp-docs
-        wordcamp-forms-to-drafts
-        wordcamp-mentors
-        wordcamp-organizer-reminders
-        wordcamp-participation-notifier
-        wordcamp-payments
-        wordcamp-payments-network
-        wordcamp-qbo
-        wordcamp-qbo-client
-        wordcamp-remote-css
-        wordcamp-reports
-        wordcamp-site-cloner
-        wordcamp-spreadsheets
-        wordcamp-wiki
+        bbpress-network-templates,
+        camptix-admin-flags,
+        camptix-attendance,
+        camptix-badge-generator,
+        camptix-mailchimp,
+        email-post-changes-specific-post,
+        jquery-ui-css,
+        multi-event-sponsors,
+        wc-canonical-years,
+        wc-fonts,
+        wc-post-types,
+        wcpt,
+        wordcamp-api,
+        wordcamp-coming-soon-page,
+        wordcamp-dashboard-widgets,
+        wordcamp-docs,
+        wordcamp-forms-to-drafts,
+        wordcamp-mentors,
+        wordcamp-organizer-reminders,
+        wordcamp-participation-notifier,
+        wordcamp-payments,
+        wordcamp-payments-network,
+        wordcamp-qbo,
+        wordcamp-qbo-client,
+        wordcamp-remote-css,
+        wordcamp-reports,
+        wordcamp-site-cloner,
+        wordcamp-spreadsheets,
+        wordcamp-wiki,
       ]
     subversion:
       repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ item }}
