@@ -36,7 +36,7 @@
         wordcamp-coming-soon-page,
         wordcamp-dashboard-widgets,
         wordcamp-docs,
-        wordcamp-forms-to-drafts,
+        # wordcamp-forms-to-drafts,
         # wordcamp-mentors,
         # wordcamp-organizer-reminders,
         wordcamp-participation-notifier,
@@ -117,11 +117,7 @@
     command: "wp plugin activate --all"
 
   - name: Deactivate plugin
-    command: "wp plugin deactivate {{ item }}"
-    vars:
-      deactivate_plugins: [
-        akismet,
-        hallo
-      ]
-    with_items:
-      - "{{ deactivate_plugins }}"
+    command: "wp plugin deactivate akismet"
+
+  - name: Deactivate plugin
+    command: "wp plugin uninstall Hello"
