@@ -35,7 +35,7 @@
         wordcamp-api,
         wordcamp-coming-soon-page,
         wordcamp-dashboard-widgets,
-        wordcamp-docs,
+        # wordcamp-docs,
         # wordcamp-forms-to-drafts,
         # wordcamp-mentors,
         # wordcamp-organizer-reminders,
@@ -44,11 +44,11 @@
         wordcamp-payments-network,
         # wordcamp-qbo,
         # wordcamp-qbo-client,
-        wordcamp-remote-css,
-        wordcamp-reports,
-        wordcamp-site-cloner,
-        wordcamp-spreadsheets,
-        wordcamp-wiki
+        # wordcamp-remote-css,
+        # wordcamp-reports,
+        # wordcamp-site-cloner,
+        # wordcamp-spreadsheets,
+        # wordcamp-wiki
       ]
     subversion:
       repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ item }}
@@ -83,22 +83,19 @@
 #      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/tagregator"
 #    ignore_errors: yes
 
-  - file: path={{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php state=absent
+  - file:
+      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
+      state: absent
+
+  - file:
+      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-global-login.php"
+      state: absent
 
   - name: Checkout WordCamp Redux v2 Theme from SVN
     subversion:
       repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/themes/wordcamp-base-v2/
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2"
     ignore_errors: yes
-
-  - name: Activate camptix-network-tools
-    command: "wp plugin activate camptix-network-tools --network"
-
-  - name: Activate email-post-changes
-    command: "wp plugin activate email-post-changes --network"
-
-  - name: Activate Tagregator
-    command: "wp plugin activate tagregator --network"
 
   - name: Clone Your WordCamp Theme from Git
     when: theme.stat.exists != true
