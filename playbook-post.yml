@@ -119,5 +119,8 @@
   - name: Deactivate plugin
     command: "wp plugin deactivate akismet"
 
-  - name: Deactivate plugin
-    command: "wp plugin uninstall Hello"
+  - name: Update core
+    command: "wp core update"
+
+  - name: Update plugin
+    command: "wp plugin update --all"

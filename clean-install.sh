@@ -12,3 +12,5 @@ rm -rf playbook-post.retry
 
 echo "Setup wc-vccw..."
 vagrant up
+
+echo "Finished Setup!!"
