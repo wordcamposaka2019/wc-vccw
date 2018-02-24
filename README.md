@@ -16,7 +16,10 @@ Start development on <http://localhost:3000/> !
 ## npm commands
 
 * `npm start` start browsersync.
-* `npm run build` Build scss in `wordpress/wp-content/themes/wordcamp-japan-theme/scss`.
+* `npm run build` Build scss in `wordpress/wp-content/themes/wcosaka2018-theme/scss`.
+
+You need edit package.json.
+Rewrite your theme name in line 9, 10, 11.
 
 ## Configuration
 

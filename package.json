@@ -6,9 +6,9 @@
   "license": "GPL-2.0+",
   "scripts": {
     "build": "npm run scss && npm run postcss",
-    "scss": "node-sass ./wordpress/wp-content/themes/wordcamp-japan-theme/scss/ -o ./wordpress/wp-content/themes/wordcamp-japan-theme/css/",
-    "postcss": "postcss ./wordpress/wp-content/themes/wordcamp-japan-theme/css/**/*.css --use autoprefixer -d ./wordpress/wp-content/themes/wordcamp-japan-theme/css/",
-    "watch": "nodemon --watch ./wordpress/wp-content/themes/wordcamp-japan-theme/ -e scss -x \"npm run build\"",
+    "scss": "node-sass ./wordpress/wp-content/themes/wcosaka2018-theme/scss/ -o ./wordpress/wp-content/themes/wcosaka2018-theme/css/",
+    "postcss": "postcss ./wordpress/wp-content/themes/wcosaka2018-theme/css/**/*.css --use autoprefixer -d ./wordpress/wp-content/themes/wcosaka2018-theme/css/",
+    "watch": "nodemon --watch ./wordpress/wp-content/themes/wcosaka2018-theme/ -e scss -x \"npm run build\"",
     "bs": "node ./browserSync.js",
     "start": "npm run watch & npm run bs"
   },
