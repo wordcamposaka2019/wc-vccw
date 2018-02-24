@@ -20,14 +20,14 @@
   - name: Checkout WordCamp Plugin from SVN
     vars:
       wc_plugins: [
-        bbpress-network-templates,
+        # bbpress-network-templates,
         camptix-admin-flags,
         camptix-attendance,
         camptix-badge-generator,
         camptix-mailchimp,
         email-post-changes-specific-post,
         jquery-ui-css,
-        multi-event-sponsors,
+        # multi-event-sponsors,
         wc-canonical-years,
         wc-fonts,
         wc-post-types,
@@ -37,37 +37,37 @@
         wordcamp-dashboard-widgets,
         wordcamp-docs,
         wordcamp-forms-to-drafts,
-        wordcamp-mentors,
-        wordcamp-organizer-reminders,
+        # wordcamp-mentors,
+        # wordcamp-organizer-reminders,
         wordcamp-participation-notifier,
         wordcamp-payments,
         wordcamp-payments-network,
-        wordcamp-qbo,
-        wordcamp-qbo-client,
+        # wordcamp-qbo,
+        # wordcamp-qbo-client,
         wordcamp-remote-css,
         wordcamp-reports,
         wordcamp-site-cloner,
         wordcamp-spreadsheets,
-        wordcamp-wiki,
+        wordcamp-wiki
       ]
     subversion:
       repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ item }}
-      state: present
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ item }}"
     with_items:
       - "{{ wc_plugins }}"
-    # ignore_errors: yes
-
-  - name: Checkout camptix-network-tools plugin from SVN
-    subversion:
-      repo: https://plugins.svn.wordpress.org/camptix-network-tools/trunk
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/camptix-network-tools"
     ignore_errors: yes
 
-  - name: Checkout email-post-changes plugin from SVN
+  - name: Checkout plugin from SVN
+    vars:
+      wp_plugins: [
+        camptix-network-tools,
+        email-post-changes
+      ]
     subversion:
-      repo: https://plugins.svn.wordpress.org/email-post-changes/trunk
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/email-post-changes"
+      repo: https://plugins.svn.wordpress.org/{{ item }}/trunk
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ item }}"
+    with_items:
+      - "{{ wp_plugins }}"
     ignore_errors: yes
 
   - name: Checkout Camptix plugin from Git
@@ -113,9 +113,15 @@
   - name: Import your WordCamp posts
     command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-02-20.xml --authors=create"
 
-  - name: Uninstall plugin "Hello Dolly"
-    command: "wp plugin uninstall hello"
-
   - name: Activate all plugin
     command: "wp plugin activate --all"
 
+  - name: Deactivate plugin
+    command: "wp plugin deactivate {{ item }}"
+    vars:
+      deactivate_plugins: [
+        akismet,
+        hallo
+      ]
+    with_items:
+      - "{{ deactivate_plugins }}"

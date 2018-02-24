@@ -32,7 +32,6 @@ plugins: [
   camptix-pagseguro
   camptix-payfast-gateway
   jetpack
-  json-rest-api
   wp-multibyte-patch
   wordpress-importer
   tagregator
