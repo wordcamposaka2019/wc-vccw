@@ -1,0 +1,100 @@
+---
+- hosts: all
+
+  tasks:
+
+  - stat:
+      path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2/.git"
+    register: theme
+
+  - name: Checkout WordCamp MU Plugin from SVN
+    subversion:
+      repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/mu-plugins/
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/mu-plugins/"
+    ignore_errors: yes
+
+  - name: Checkout WordCamp Plugin from SVN
+    vars:
+      wc_plugins: [
+        # bbpress-network-templates,
+        camptix-admin-flags,
+        camptix-attendance,
+        camptix-badge-generator,
+        camptix-mailchimp,
+        email-post-changes-specific-post,
+        jquery-ui-css,
+        # multi-event-sponsors,
+        wc-canonical-years,
+        wc-fonts,
+        wc-post-types,
+        wcpt,
+        wordcamp-api,
+        wordcamp-coming-soon-page,
+        wordcamp-dashboard-widgets,
+        # wordcamp-docs,
+        # wordcamp-forms-to-drafts,
+        # wordcamp-mentors,
+        # wordcamp-organizer-reminders,
+        wordcamp-participation-notifier,
+        wordcamp-payments,
+        wordcamp-payments-network,
+        # wordcamp-qbo,
+        # wordcamp-qbo-client,
+        # wordcamp-remote-css,
+        # wordcamp-reports,
+        # wordcamp-site-cloner,
+        # wordcamp-spreadsheets,
+        # wordcamp-wiki
+      ]
+    subversion:
+      repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ item }}
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ item }}"
+    with_items:
+      - "{{ wc_plugins }}"
+    ignore_errors: yes
+
+  - name: Checkout plugin from SVN
+    vars:
+      wp_plugins: [
+        camptix-network-tools,
+        email-post-changes
+      ]
+    subversion:
+      repo: https://plugins.svn.wordpress.org/{{ item }}/trunk
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ item }}"
+    with_items:
+      - "{{ wp_plugins }}"
+    ignore_errors: yes
+
+  - name: Checkout Camptix plugin from Git
+    when: theme.stat.exists != true
+    git:
+      repo: https://github.com/Automattic/camptix.git
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/camptix"
+      version: master
+
+  - file:
+      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
+      state: absent
+
+  - file:
+      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-global-login.php"
+      state: absent
+
+  - name: Checkout WordCamp Redux v2 Theme from SVN
+    subversion:
+      repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/themes/wordcamp-base-v2/
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2"
+    ignore_errors: yes
+
+  - name: Activate all plugin
+    command: "wp plugin activate --all --network"
+
+  - name: Deactivate plugin
+    command: "wp plugin deactivate akismet --network"
+
+  - name: Update core language files.
+    command: "wp core language update"
+
+  - name: Update plugin
+    command: "wp plugin update --all"

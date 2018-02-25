@@ -1,123 +1,26 @@
 ---
+- include: provision/playbook-wordcamp.yml
+
 - hosts: all
 
   tasks:
 
+  # Set git init Your WordCamp theme Directory.
   - stat:
-      path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2/.git"
+      path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme/.git" # Assign directory.
     register: theme
 
-  - stat:
-      path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme/.git"
-    register: theme
-
-  - name: Checkout WordCamp MU Plugin from SVN
-    subversion:
-      repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/mu-plugins/
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/mu-plugins/"
-    ignore_errors: yes
-
-  - name: Checkout WordCamp Plugin from SVN
-    vars:
-      wc_plugins: [
-        # bbpress-network-templates,
-        camptix-admin-flags,
-        camptix-attendance,
-        camptix-badge-generator,
-        camptix-mailchimp,
-        email-post-changes-specific-post,
-        jquery-ui-css,
-        # multi-event-sponsors,
-        wc-canonical-years,
-        wc-fonts,
-        wc-post-types,
-        wcpt,
-        wordcamp-api,
-        wordcamp-coming-soon-page,
-        wordcamp-dashboard-widgets,
-        # wordcamp-docs,
-        # wordcamp-forms-to-drafts,
-        # wordcamp-mentors,
-        # wordcamp-organizer-reminders,
-        wordcamp-participation-notifier,
-        wordcamp-payments,
-        wordcamp-payments-network,
-        # wordcamp-qbo,
-        # wordcamp-qbo-client,
-        # wordcamp-remote-css,
-        # wordcamp-reports,
-        # wordcamp-site-cloner,
-        # wordcamp-spreadsheets,
-        # wordcamp-wiki
-      ]
-    subversion:
-      repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ item }}
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ item }}"
-    with_items:
-      - "{{ wc_plugins }}"
-    ignore_errors: yes
-
-  - name: Checkout plugin from SVN
-    vars:
-      wp_plugins: [
-        camptix-network-tools,
-        email-post-changes
-      ]
-    subversion:
-      repo: https://plugins.svn.wordpress.org/{{ item }}/trunk
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/{{ item }}"
-    with_items:
-      - "{{ wp_plugins }}"
-    ignore_errors: yes
-
-  - name: Checkout Camptix plugin from Git
+  # Git clone your WordCamp theme repository.
+  - name: Install Your WordCamp Theme from Git
     when: theme.stat.exists != true
     git:
-      repo: https://github.com/Automattic/camptix.git
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/camptix"
-      version: master
-
-#  - name: Checkout tagregator plugin from SVN
-#    subversion:
-#      repo: https://plugins.svn.wordpress.org/tagregator/trunk
-#      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/tagregator"
-#    ignore_errors: yes
-
-  - file:
-      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
-      state: absent
-
-  - file:
-      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-global-login.php"
-      state: absent
-
-  - name: Checkout WordCamp Redux v2 Theme from SVN
-    subversion:
-      repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/themes/wordcamp-base-v2/
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2"
-    ignore_errors: yes
-
-  - name: Clone Your WordCamp Theme from Git
-    when: theme.stat.exists != true
-    git:
-      repo: https://github.com/wcosaka2018/wcosaka2018-theme.git
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wcosaka2018-theme"
-      version: master # Select Branch
+      repo: https://github.com/wcosaka2018/wcosaka2018-theme.git # Set repository.
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wcosaka2018-theme" # Assign directory.
+      version: master # Select Branch.
 
   - name: Activate theme
-    command: "wp theme enable wcosaka2018-theme --network"
+    command: "wp theme enable wcosaka2018-theme --activate"
 
+  # Import your WordCamp posts data(XML).
   - name: Import your WordCamp posts
-    command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-02-20.xml --authors=create"
-
-  - name: Activate all plugin
-    command: "wp plugin activate --all"
-
-  - name: Deactivate plugin
-    command: "wp plugin deactivate akismet"
-
-  - name: Update core
-    command: "wp core update"
-
-  - name: Update plugin
-    command: "wp plugin update --all"
+    command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-02-20.xml --authors=create" # set posts xml file.
