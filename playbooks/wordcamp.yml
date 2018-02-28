@@ -1,5 +1,8 @@
 ---
 - hosts: all
+  vars:
+    path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}"
+    user: "{{ ansible_env.USER | default( 'ubuntu' ) }}"
 
   tasks:
 
@@ -9,9 +12,8 @@
       wp core multisite-convert --subdomains
       --path={{ path }}
   - name: Create `.htaccess` for multisite
-    when: vccw.multisite
     template:
-      src: templates/multisite-htaccess
+      src: ../provision/playbooks/templates/multisite-htaccess
       dest: /tmp/.htaccess
   - name: Move `.htaccess` for multisite
     command: "mv /tmp/.htaccess {{ vccw.document_root }}/.htaccess"
