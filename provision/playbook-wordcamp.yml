@@ -73,13 +73,13 @@
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/plugins/camptix"
       version: master
 
-  - file:
-      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
-      state: absent
+#  - file:
+#      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-login-message.php"
+#      state: absent
 
-  - file:
-      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-global-login.php"
-      state: absent
+#  - file:
+#      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-global-login.php"
+#      state: absent
 
   - name: Checkout WordCamp Redux v2 Theme from SVN
     subversion:
