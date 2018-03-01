@@ -1,7 +1,27 @@
 ---
 - hosts: all
+  vars:
+    path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}"
+    user: "{{ ansible_env.USER | default( 'ubuntu' ) }}"
 
   tasks:
+
+ # multisite Settings
+  - name: Run `wp core multisite-convert`
+    command: |
+      wp core multisite-convert --subdomains
+      --path={{ path }}
+  - name: Create `.htaccess` for multisite
+    template:
+      src: ../provision/playbooks/templates/multisite-htaccess
+      dest: /tmp/.htaccess
+  - name: Move `.htaccess` for multisite
+    command: "mv /tmp/.htaccess {{ vccw.document_root }}/.htaccess"
+  - name: Setting up Wordpress multisite options
+    command: |
+      wp network meta update 1 {{ item.key }} '{{ item.value }}'
+      --path={{ path }}
+    with_dict: "{{ vccw.multisite_options | default({}) }}"
 
   - stat:
       path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2/.git"
