@@ -16,7 +16,7 @@
     git:
       repo: https://github.com/wcosaka2018/wcosaka2018-theme.git # Set repository.
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wcosaka2018-theme" # Assign directory.
-      version: master # Select Branch.
+      version: develop # Select Branch.
 
   - name: Activate theme
     command: "wp theme enable wcosaka2018-theme --activate"
