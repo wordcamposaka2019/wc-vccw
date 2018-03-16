@@ -22,5 +22,5 @@
     command: "wp theme enable wcosaka2018-theme --activate"
 
   # Import your WordCamp posts data(XML).
-  - name: Import your WordCamp posts
-    command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-03-14.xml --authors=create" # set posts xml file.
+#  - name: Import your WordCamp posts
+#    command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-03-14.xml --authors=create" # set posts xml file.

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.5-alpha-42831" created="2018-03-14 12:51" -->
+<!-- generator="WordPress/4.9.5-alpha-42831" created="2018-03-16 10:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WordCamp Osaka 2018</title>
 	<link>https://2018.osaka.wordcamp.org</link>
 	<description>2018.06.02-06.03 at Kansai University Umeda Canvas &#34;Kandai Me RISE&#34;</description>
-	<pubDate>Wed, 14 Mar 2018 12:51:40 +0000</pubDate>
+	<pubDate>Fri, 16 Mar 2018 10:38:20 +0000</pubDate>
 	<language>ja</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordcamp.org/</wp:base_site_url>
@@ -87,6 +87,7 @@
 	<wp:author><wp:author_id>15966597</wp:author_id><wp:author_login><![CDATA[rdlabo]]></wp:author_login><wp:author_email><![CDATA[sakakibara@rdlabo.jp]]></wp:author_email><wp:author_display_name><![CDATA[rdlabo]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>15971797</wp:author_id><wp:author_login><![CDATA[morie1]]></wp:author_login><wp:author_email><![CDATA[netmorie@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[morie1]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>15973181</wp:author_id><wp:author_login><![CDATA[yike]]></wp:author_login><wp:author_email><![CDATA[yike@educationaldesign.jp]]></wp:author_email><wp:author_display_name><![CDATA[yike]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>15978057</wp:author_id><wp:author_login><![CDATA[marie0219]]></wp:author_login><wp:author_email><![CDATA[marie.tomoishi@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[marie0219]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>15980923</wp:author_id><wp:author_login><![CDATA[shogomuranushi]]></wp:author_login><wp:author_email><![CDATA[xwkns157@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[shogomuranushi]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>15981249</wp:author_id><wp:author_login><![CDATA[kmnhrn]]></wp:author_login><wp:author_email><![CDATA[in.kyoto@hotmail.co.jp]]></wp:author_email><wp:author_display_name><![CDATA[Kamino]]></wp:author_display_name><wp:author_first_name><![CDATA[Kamino]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>15994060</wp:author_id><wp:author_login><![CDATA[webda0917]]></wp:author_login><wp:author_email><![CDATA[okada@web-da.com]]></wp:author_email><wp:author_display_name><![CDATA[webda0917]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -269,6 +270,8 @@
 	<wp:term><wp:term_id>1239274</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%ab%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88]]></wp:term_slug><wp:term_name><![CDATA[ソーシャルアカウント]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>1109399</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[%e3%83%86%e3%82%a3%e3%82%b6%e3%83%bc%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc]]></wp:term_slug><wp:term_name><![CDATA[ティザー用グローバルメニュー]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>1239276</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc]]></wp:term_slug><wp:term_name><![CDATA[本番用グローバルメニュー]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=4.9.5-alpha-42831</generator>
@@ -3627,17 +3630,6 @@ Array
 さらに入力はAmazon Echo(Alexa)を使い、決済はStripeを利用してApple Pay，Pay with Googleを採用。音声入力での購入体験とキャッシュレス決済の少しだけ新しい未来をゆるりと自社の制度をつかってご紹介します。";s:20:"12_Intended Audience";s:91:"WordPressとEC，Amazon Echo、キャッシュレス決済に少しでも興味のある方";s:52:"13_Past Speaking Experience (not necessary to apply)";s:95:"・WordCamp Kyoto 2017
 ・JAWS-UG 2017仙台 秋祭り
 ・necco 主催イベント CaT vol.1 ";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_feedback_akismet_values]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:28:{s:14:"comment_author";s:10:"Fumito Abe";s:20:"comment_author_email";s:12:"abe@necco.co";s:18:"comment_author_url";s:0:"";s:20:"contact_form_subject";s:24:"WordCamp Speaker Request";s:17:"comment_author_IP";s:14:"210.132.52.156";s:15:"comment_content";s:1028:"株式会社necco / CEO / クリエイティブディレクター / エンジニア
-昭和 56 年 東京都生まれ。
-オフィス仲介、 外国人専用ゲストハウスなどの不動産業界にて自社ブランデン グ・Web マーケティングに従事。Web サイトの解析、広告運用、多言語サイ
-トの制作を経験。その後、サンフランシスコにて語学留学を兼ね現地企業 EC サイトの企画からCMS 開発、デザイン制作を担当。帰国後、2013 年 9 月 より秋田県内企業にて WordPress を中心に Web サイトを多数構築。2016 年 10 月秋田県秋田市にて株式会社 necco を設立。WordPress の勉強会 であるWordBench Akitaを主催。WordCamp Kyoto 2017・JAWS-UG 仙台 秋祭り登壇など社外でも積極的に活動中。 好きなものは猫、読書、デザイン、建築、Apple。2 匹の猫と仲良く暮らして います。最近の興味はAlexaとVUI。";s:41:"contact_form_field_wordpress-org-username";s:9:"abefumito";s:30:"contact_form_field_topic-title";s:84:"necco LunchをAlexaで入力！Woocommerce + Apple Pay + Pay with Googleで決済！";s:36:"contact_form_field_topic-description";s:453:"株式会社neccoのメンバーが交代でLunchを作ってるnecco LunchをWordPressとECカートプラグインであるWoocommerを使ってシステム化しました。
-
-さらに入力はAmazon Echo(Alexa)を使い、決済はStripeを利用してApple Pay，Pay with Googleを採用。音声入力での購入体験とキャッシュレス決済の少しだけ新しい未来をゆるりと自社の制度をつかってご紹介します。";s:36:"contact_form_field_intended-audience";s:91:"WordPressとEC，Amazon Echo、キャッシュレス決済に少しでも興味のある方";s:66:"contact_form_field_past-speaking-experience-not-necessary-to-apply";s:94:"・WordCamp Kyoto 2017
-・JAWS-UG 2017仙台 秋祭り
-・necco 主催イベント CaT vol.1";s:12:"comment_type";s:12:"contact_form";s:7:"user_ip";s:14:"210.132.52.156";s:10:"user_agent";s:121:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36";s:8:"referrer";s:50:"https://2018.osaka.wordcamp.org/call-for-speakers/";s:4:"blog";s:31:"https://2018.osaka.wordcamp.org";s:11:"REQUEST_URI";s:19:"/call-for-speakers/";s:20:"HTTP_ACCEPT_LANGUAGE";s:23:"ja,en-US;q=0.9,en;q=0.8";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:11:"HTTP_ACCEPT";s:85:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8";s:17:"HTTP_CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:11:"HTTP_ORIGIN";s:31:"https://2018.osaka.wordcamp.org";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:19:"HTTP_CONTENT_LENGTH";s:4:"4912";s:9:"HTTP_HOST";s:23:"2018.osaka.wordcamp.org";s:11:"REMOTE_ADDR";s:14:"210.132.52.156";s:12:"DOCUMENT_URI";s:10:"/index.php";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
@@ -8722,284 +8714,6 @@ Array
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Sample Page</title>
-		<link>https://2018.osaka.wordcamp.org/sample-page/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:08 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">http://2018.osaka.wordcamp.org/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="https://2018.osaka.wordcamp.org/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Schedule</title>
-		<link>https://2018.osaka.wordcamp.org/schedule/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/schedule/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Sessions menu item in the sidebar.</p> <h1>Saturday, January 1st</h1> <p>[schedule date="YYYY-MM-DD" tracks="example-track,another-example-track,yet-another-example-track"]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[schedule]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Speakers</title>
-		<link>https://2018.osaka.wordcamp.org/speakers/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/speakers/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Speakers menu item in the sidebar.</p> <p>[speakers]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[speakers]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sessions</title>
-		<link>https://2018.osaka.wordcamp.org/sessions/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/sessions/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Sessions menu item in the sidebar.</p> <p>[sessions orderby="session_time" order="asc"]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sessions]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sponsors</title>
-		<link>https://2018.osaka.wordcamp.org/sponsors/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/sponsors/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> Multi-event sponsors have been automatically created in the Sponsors menu, but you'll need to remove the ones that don't apply to your specific event. To find out which ones apply, please visit the <a href="https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/fundraising/global-community-sponsorship-for-event-organizers/">Global Community Sponsorship</a> handbook page. After that, you should add the sponsors that are specific to your event. For non-English sites, make sure the URL below matches the Call for Sponsors page.</p> <h3>Our Sponsors</h3> <p>Blurb thanking sponsors</p> <p>[sponsors]</p> <h3>Interested in sponsoring WordCamp this year?</h3> <p>Check out our <a href="/call-for-sponsors">Call for Sponsors</a> post for details on how you can help make this year's WordCamp the best it can be!</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sponsors]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Location</title>
-		<link>https://2018.osaka.wordcamp.org/location/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/location/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[location]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Organizers</title>
-		<link>https://2018.osaka.wordcamp.org/organizers/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/organizers/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Organizers menu item in the sidebar.</p> <p>[organizers]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[organizers]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Tickets</title>
-		<link>https://2018.osaka.wordcamp.org/?page_id=13</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> If you'd like to change the slug for this page, please make sure you do that before opening ticket sales. Changing the page slug after tickets have started selling will break the link that users receive in their receipt e-mail.</p> <p>[camptix]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
-		<title>Attendees</title>
-		<link>https://2018.osaka.wordcamp.org/?page_id=14</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=14</guid>
-		<description></description>
-		<content:encoded><![CDATA[[camptix_attendees columns="3"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
-		<title>Videos</title>
-		<link>https://2018.osaka.wordcamp.org/?page_id=15</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> After your WordCamp is over and the sessions are published to WordPress.tv, you can embed them here. Just enter the event slug into the shortcode below, and hit the <em>Publish</em> button.</p> <p>[wptv event="enter-event-slug-here"]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
-		<title>Slideshow</title>
-		<link>https://2018.osaka.wordcamp.org/?page_id=16</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=16</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> Upload photos to this page and they'll automagically appear in a slideshow!</p> <p>[slideshow]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
 		<title>ホーム</title>
 		<link>https://2018.osaka.wordcamp.org/%e3%83%9b%e3%83%bc%e3%83%a0/</link>
 		<pubDate>Tue, 13 Feb 2018 01:30:37 +0000</pubDate>
@@ -9472,6 +9186,1437 @@ As a new WordPress user, you should go to <a href="https://2018.osaka.wordcamp.o
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>HOME</title>
+		<link>https://2018.osaka.wordcamp.org/home/</link>
+		<pubDate>Fri, 16 Mar 2018 10:03:27 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=794</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>794</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:03:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:03:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[794]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://2018.osaka.wordcamp.org/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://2018.osaka.wordcamp.org/803/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:48 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=803</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>803</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[803]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[795]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://2018.osaka.wordcamp.org/804/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=804</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>804</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[804]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[803]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>タイムテーブル</title>
+		<link>https://2018.osaka.wordcamp.org/%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=805</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>805</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>セッション</title>
+		<link>https://2018.osaka.wordcamp.org/%e3%82%bb%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=806</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>806</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e3%82%bb%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[805]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>スピーカー</title>
+		<link>https://2018.osaka.wordcamp.org/%e3%82%b9%e3%83%94%e3%83%bc%e3%82%ab%e3%83%bc/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=807</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>807</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e3%82%b9%e3%83%94%e3%83%bc%e3%82%ab%e3%83%bc]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[805]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://2018.osaka.wordcamp.org/808/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=808</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>808</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[808]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[799]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://2018.osaka.wordcamp.org/809/</link>
+		<pubDate>Fri, 16 Mar 2018 10:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=809</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>809</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:19:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:19:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[809]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[502936]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>参加登録</title>
+		<link>https://2018.osaka.wordcamp.org/%e5%8f%82%e5%8a%a0%e7%99%bb%e9%8c%b2/</link>
+		<pubDate>Fri, 16 Mar 2018 10:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=811</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>811</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:24:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:24:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e5%8f%82%e5%8a%a0%e7%99%bb%e9%8c%b2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:4:"join";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>参加登録 / Join</title>
+		<link>https://2018.osaka.wordcamp.org/%e5%8f%82%e5%8a%a0%e7%99%bb%e9%8c%b2-join/</link>
+		<pubDate>Fri, 16 Mar 2018 10:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=812</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>812</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:24:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:24:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e5%8f%82%e5%8a%a0%e7%99%bb%e9%8c%b2-join]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:8:"btn-join";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://2018.osaka.wordcamp.org/813/</link>
+		<pubDate>Fri, 16 Mar 2018 10:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=813</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>813</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:24:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:24:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[813]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[813]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:7:"twitter";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://twitter.com/wordcamposaka]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://2018.osaka.wordcamp.org/814/</link>
+		<pubDate>Fri, 16 Mar 2018 10:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?p=814</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>814</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:24:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:24:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[814]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%e6%9c%ac%e7%95%aa%e7%94%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc"><![CDATA[本番用グローバルメニュー]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[814]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:8:"facebook";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.facebook.com/wordcamposaka]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sample Page</title>
+		<link>https://2018.osaka.wordcamp.org/sample-page/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:08 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">http://2018.osaka.wordcamp.org/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="https://2018.osaka.wordcamp.org/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Schedule</title>
+		<link>https://2018.osaka.wordcamp.org/schedule/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/schedule/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Sessions menu item in the sidebar.</p> <h1>Saturday, January 1st</h1> <p>[schedule date="YYYY-MM-DD" tracks="example-track,another-example-track,yet-another-example-track"]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[schedule]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Speakers</title>
+		<link>https://2018.osaka.wordcamp.org/speakers/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/speakers/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Speakers menu item in the sidebar.</p> <p>[speakers]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[speakers]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sessions</title>
+		<link>https://2018.osaka.wordcamp.org/sessions/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/sessions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Sessions menu item in the sidebar.</p> <p>[sessions orderby="session_time" order="asc"]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sessions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sponsors</title>
+		<link>https://2018.osaka.wordcamp.org/sponsors/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/sponsors/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> Multi-event sponsors have been automatically created in the Sponsors menu, but you'll need to remove the ones that don't apply to your specific event. To find out which ones apply, please visit the <a href="https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/fundraising/global-community-sponsorship-for-event-organizers/">Global Community Sponsorship</a> handbook page. After that, you should add the sponsors that are specific to your event. For non-English sites, make sure the URL below matches the Call for Sponsors page.</p> <h3>Our Sponsors</h3> <p>Blurb thanking sponsors</p> <p>[sponsors]</p> <h3>Interested in sponsoring WordCamp this year?</h3> <p>Check out our <a href="/call-for-sponsors">Call for Sponsors</a> post for details on how you can help make this year's WordCamp the best it can be!</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sponsors]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Location</title>
+		<link>https://2018.osaka.wordcamp.org/location/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/location/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[location]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Organizers</title>
+		<link>https://2018.osaka.wordcamp.org/organizers/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/organizers/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> You can enter content for this page in the Organizers menu item in the sidebar.</p> <p>[organizers]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[organizers]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Attendees</title>
+		<link>https://2018.osaka.wordcamp.org/</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[[camptix_attendees columns="3"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Videos</title>
+		<link>https://2018.osaka.wordcamp.org/?page_id=15</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> After your WordCamp is over and the sessions are published to WordPress.tv, you can embed them here. Just enter the event slug into the shortcode below, and hit the <em>Publish</em> button.</p> <p>[wptv event="enter-event-slug-here"]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>Slideshow</title>
+		<link>https://2018.osaka.wordcamp.org/?page_id=16</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=16</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> Upload photos to this page and they'll automagically appear in a slideshow!</p> <p>[slideshow]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>Contact</title>
+		<link>https://2018.osaka.wordcamp.org/contact/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/contact/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[contact-form to="osaka@wordcamp.org" subject="WordCamp Contact Request"][contact-field label="Name" type="name"     required="1" /][contact-field label="Email" type="email"    required="1" /][contact-field label="Message" type="textarea" required="1" /][/contact-form]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_a9632fd55caa75da13e45625836a92af3ecddca7]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[contact-field label="Name" type="name"     required="1" /][contact-field label="Email" type="email"    required="1" /][contact-field label="Message" type="textarea" required="1" /]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_a9632fd55caa75da13e45625836a92af3ecddca7]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:17;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Social Media Stream</title>
+		<link>https://2018.osaka.wordcamp.org/social-media-stream/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/social-media-stream/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><em>Organizers note:</em> The [[tagregator]] shortcode will pull in a stream of social media posts and display them. In order to use it, you'll need to follow the setup instructions at http://wordpress.org/plugins/tagregator/installation, and then update "#wcxyz" below with your hashtag.</p> <p>[tagregator hashtag="#wcxzy"]</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[social-media-stream]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>行動規範</title>
+		<link>https://2018.osaka.wordcamp.org/code-of-conduct/</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/code-of-conduct/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. 目的</h2>
+
+WordCamp Osaka は、私たちのコミュニティが誰にでも真にオープンであるべきだと考えています。このため、私たちは性別・性的指向・身体障害・民族・宗教・好みの OS やプログラミング言語、テキストエディターにかかわらず、誰に対してもフレンドリーで安全で快適な環境を提供できるよう尽力します。
+
+この行動規範では、参加者の行動に求めることと、受け入れがたい行為が招く結果について要点をまとめています。
+
+すべてのスポンサー、ボランティア、一般来場者、その他の参加者の皆さんが、誰にとっても安全で快い体験ができるカンファレンスを実現するために協力してくれることを歓迎します。
+
+<h2>2. オープンソース市民</h2>
+
+この行動規範のもうひとつのゴールは、参加者が私たちのしていることとコミュニティ全体の関係を認識し、強化することによって「オープンソース市民」を増やすということです。
+
+このゴールを達成するために、WordCamp Osaka の運営者はイベントを通して模範となる「市民」の推薦を受け付け、カンファレンス後にサイト上で選ばれた出席者を表彰します。私たちのコミュニティが心地よく、フレンドリーで、すべての参加者が最大限に貢献できるようにするために特別努力している人を見かけた場合、ぜひ受付や運営者に推薦してください。
+
+<h2>3. 求められる行動</h2>
+
+<ul>
+<li>思いやりを持ち、お互いを尊重し、協力的に行動しましょう。</li>
+<li>品位のない、差別的・迷惑な行動や発言は慎みましょう。</li>
+<li>周辺や、他の参加者に気を配りましょう。危険な状況や誰かが困っている事に気づいたら、カンファレンス運営者に知らせましょう。</li>
+<li>偽りのない、能動的なやり方で参加しましょう。そうすることで、WordCamp Osaka の運営に協力し、自分らしいものにできます。</li>
+</ul>
+
+<h2>4. 受け入れがたい行為</h2>
+
+「受け入れがたい行為」には以下が含まれます。
+
+<ul>
+<li>WordCamp Osaka および関連するイベントにおける参加者による威嚇的・迷惑・虐待的・差別的・軽蔑的・屈辱的な行為。</li>
+</ul>
+
+WordCamp Osaka のすべての会場は公衆と共有されている場合があります。そういった場所で他のお客さんの迷惑にならないようにしてください。
+
+<h2>「迷惑行為」には以下が含まれます。</h2>
+
+<ul>
+<li>性別・性的指向・人種・宗教・障害に関する攻撃的な口頭のコメント</li>
+<li>プレゼンスライドを含む公的空間においての裸体や性的画像の不適切な使用</li>
+<li>嫌がらせとなる写真撮影や録音</li>
+<li>プレゼンその他のイベントに対する継続的な妨害</li>
+<li>不適切な身体的接触</li>
+<li>歓迎されていない性的な注目</li>
+</ul>
+
+<h2>5. 受け入れがたい行為が招く結果</h2>
+
+受け入れがたい行為は、他の一般来場者、運営者、会場スタッフ、スポンサー、WordCamp Osaka の会場に来ている他のお客さん、いずれによるものであれ、許容されません。
+
+受け入れがたい行為をやめるように言われた方は、直ちに応じることが求められます。
+
+もし参加者が受け入れがたい行為を行った場合は、その人に警告や返金なしにカンファレンスから退場してもらうことも含め、カンファレンスの運営者は自身が適切だと考える対応を取る可能性があります。
+
+<h2>6. 受け入れがたい行為を目にした場合・その被害を被った場合</h2>
+
+もし自身が受け入れがたい行為にさらされたり、誰かがそのような行為を受けていたり、その他気になることがあったりした場合は、できるだけ早くカンファレンス運営者にお知らせください。
+
+WordCamp Osaka チームは、参加者が会場の警備員や地域の警察に連絡するのを手伝ったり、付き添いをしたり、その他の方法で受け入れがたい行為にさらされている方に力を貸すことにより、カンファレンス期間中安心して過ごしていただけるように応対可能です。ボランティアはスタッフ用の T シャツを身につけています。ボランティアは誰でもカンファレンス運営者に連絡するお手伝いができます。また、ロビーの受付で運営者を呼び出すこともできます。
+
+<h2>7. 適用範囲</h2>
+
+イベント参加者すべて (スポンサー、ボランティア、スピーカー、一般来場者、その他のゲスト) が、全イベント会場およびイベントに関連する行事などにおいてこの行動規範に従うことを期待します。
+
+<h2>8. 連絡先情報</h2>
+
+以下のフォームから、このコミュニティガイドラインについてイベントの開催前に、運営者へ連絡することができます。
+
+[contact-form to="osaka@wordcamp.org" subject="WordCamp Contact Request"][contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /][/contact-form]
+
+<h2>9. ライセンスと帰属</h2>
+
+この行動規範は Open Source Bridge のすばらしい成果をお借りして、当イベントの情報に入れ替えたものです。原文は にて <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons 表示 – 継承</a> ライセンスのもとにリリースされています。
+
+<hr />
+
+このページの文章は、WordCamp Central の「<a href="http://opensourcebridge.org/about/code-of-conduct/">Code of Conduct</a>」に加筆・修正したものです。
+日本語訳: 2018年02月13日]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[code-of-conduct]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8756254]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_a1468d67c497675e16e1b5f30b73a7e8a5d2d494]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_a1468d67c497675e16e1b5f30b73a7e8a5d2d494]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:19;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[338]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>WELCOME to WordCamp Osaka 2018</title>
+		<link>https://2018.osaka.wordcamp.org/en/</link>
+		<pubDate>Tue, 13 Feb 2018 03:38:32 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=281</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>WordCamp Kansai 2018</h2>
+
+WordCamp Osaka 2018 will be held on 2-3 June, 2018 at Kansai University Umeda Campus (KANDAI Me RISE)!
+
+WordCamp Osaka aims to make the exciting place to share and learn various knowledge and experiences for a product management, a business facilitation and others, utilizing WordPress. We hope to become a good opportunity for all participants by various communications.
+
+Now, the executive members are making an effort to prepare various excellent contents. We will inform when they are ready.
+
+<h3>Date and Time</h3>
+
+Day 1: June 2nd (Sat), 2018 - Session Day
+Day 2: June 3rd (Sun), 2018 - Contributor Day
+
+<h3>Venue</h3>
+
+<strong>Kansai University Umeda Campus - KANDAI Me RISE 4F/7F/8F</strong>
+<small>(Reception is on the 4th floor.)</small>
+
+<a href="http://www.kansai-u.ac.jp/English/about_ku/umeda_map.html" target="_blank" rel="noopener">Official Page</a>
+
+<h3>Kansai University Umeda Canvas KANDAI Me RISE</h3>
+
+Address : 1-5 Tsuruno-cho, Kita-ku, Osaka-shi, Osaka, 530-0014
+
+[googlemaps https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13119.817277762586!2d135.5010789!3d34.7063321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd91debb4ce1db8dd!2z6Zai6KW_5aSn5a2mIOaiheeUsOOCreODo-ODs-ODkeOCuSBLQU5EQUkgTWUgUklTRQ!5e0!3m2!1sja!2sjp!4v1518494619197&amp;w=100%&amp;h=450&amp;zoom=15]
+
+<h3>Maximum Attendees</h3>
+
+Day 1 - 450 people
+Day 2 - 100 people
+
+<h3>Participation fee</h3>
+
+<h4>Day 1 - Session Day (June 2nd)</h4>
+
+Session : ¥2,000 (Japanese yen)
+After Party : ¥3,000 (Japanese yen)
+
+<h4>Day 2 - Contributor Day (June 3rd)</h4>
+
+Free]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>281</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-13 03:38:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-13 03:38:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[en]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>99</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7293519]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Code of Conduct</title>
+		<link>https://2018.osaka.wordcamp.org/en/code-of-conduct/</link>
+		<pubDate>Tue, 13 Feb 2018 03:39:53 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=283</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>1. Purpose</h2>
+
+WordCamp Osaka believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
+
+his code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
+
+We invite all sponsors, volunteers, speakers, attendees, and other participants to help us realize a safe and positive conference experience for everyone.
+
+<h2>2. Open Source Citizenship</h2>
+
+A supplemental goal of this code of conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between what we do and the community at large.
+
+In service of this goal, WordCamp Osaka organizers will be taking nominations for exemplary citizens throughout the event and will recognize select participants after the conference on the website.
+
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+
+<h2>3. Expected Behavior</h2>
+
+<ul>
+<li>Be considerate, respectful, and collaborative.</li>
+<li>Refrain from demeaning, discriminatory or harassing behavior and speech.</li>
+<li>Be mindful of your surroundings and of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.</li>
+<li>Participate in an authentic and active way. In doing so, you help to create WordCamp Osaka and make it your own.</li>
+</ul>
+
+<h2>4. Unacceptable Behavior</h2>
+
+Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of WordCamp Osaka and related events.
+All WordCamp Osaka venues may be shared with members of the public; please be respectful to all patrons of these locations.
+
+Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+
+<h2>5. Consequences Of Unacceptable Behavior</h2>
+
+Unacceptable behavior will not be tolerated whether by other attendees, organizers, venue staff, sponsors, or other patrons of WordCamp Osaka venues.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, up to and including expulsion from the conference without warning or refund.
+
+<h2>6. What To Do If You Witness Or Are Subject To Unacceptable Behavior</h2>
+
+If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a conference organizer as soon as possible.
+
+WordCamp Osaka team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference.
+Any volunteer can connect you with a conference organizer. You can also come to the special registration desk in the lobby and ask for the organizers.
+
+<h2>7. Scope</h2>
+
+We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
+
+<h2>8. Contact Information</h2>
+
+[contact-form to="osaka@wordcamp.org" subject="WordCamp Contact Request"]
+[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]
+[/contact-form]
+
+<h2>9. License And Attribution</h2>
+
+This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at and is released under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> license.
+
+<hr />
+
+Update : February 13th, 2018]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>283</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-13 03:39:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-13 03:39:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[code-of-conduct]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>281</wp:post_parent>
+		<wp:menu_order>99</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8756254]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_af514560606682d3cdac62ca2093407c9807dffb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_af514560606682d3cdac62ca2093407c9807dffb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:283;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_b4c72a09a9af6b9c1569e5a54851ed7887e50b59]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<br />
+[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]<br />
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_b4c72a09a9af6b9c1569e5a54851ed7887e50b59]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:283;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[338]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>WordCamp Osaka 2018 へようこそ</title>
+		<link>https://2018.osaka.wordcamp.org/</link>
+		<pubDate>Tue, 13 Feb 2018 04:04:48 +0000</pubDate>
+		<dc:creator><![CDATA[gouten5010]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=297</guid>
+		<description></description>
+		<content:encoded><![CDATA[いよいよ WordCamp Osaka 2018 が開催されます。
+
+日程は2018年6月2日（土）・3日（日）の2日間。
+会場は関西大学梅田キャンパス KANDAI Me RISE にて開催します。
+
+WordCamp Osaka 2018 では、WordPressをうまく利用してプロダクトを運用したり、WordPressを利用したビジネスを展開しているのか、また様々な人がWordPressをどのように利用しているかを交流しながら共有する場にすることを目指しています。
+そして、WordPressに関わるさまざまな人達と ーもちろんこれまで関わったことのなかった人達ともー 関わることで、自分たちのWordPressのプロダクトや使い方により良く活かせるようなきっかけになればと考えています。
+
+ここ数年で開催された関西のWordCampのように無料ではなく、有料のチケットを購入して参加して頂く形にはなりますが、来場される方がたに、価格に負けないコンテンツが提供できればと思います。
+
+現在準備を実行委員チームで進めており、準備ができ次第、順次情報を公開していく予定です。
+セッションの詳細やタイムテーブルは順を追ってサイトで紹介していくので、ぜひチェックしてください。
+
+<h2>開催概要</h2>
+
+<h3>名称</h3>
+
+WordCamp Osaka 2018
+
+<h3>日時</h3>
+
+2018年6月2日(土) Session Day
+2018年6月3日(日) Contributor Day
+
+<h3>会場</h3>
+
+<strong>関西大学梅田キャンパス KANDAI Me RISE 4F/7F/8F</strong>
+<small>※受付は4Fの予定ですので、当日はまず４Fにお上がりください</small>
+
+<h4>関西大学梅田キャンパス KANDAI Me RISE</h4>
+
+〒530-0014 大阪府大阪市北区鶴野町1番5号
+
+[googlemaps https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13119.817277762586!2d135.5010789!3d34.7063321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd91debb4ce1db8dd!2z6Zai6KW_5aSn5a2mIOaiheeUsOOCreODo-ODs-ODkeOCuSBLQU5EQUkgTWUgUklTRQ!5e0!3m2!1sja!2sjp!4v1518494619197&amp;w=100%&amp;h=450&amp;zoom=15]
+
+<h3>会場定員</h3>
+
+6月2日(土) 450名
+6月3日(日) 100名
+
+<h3>参加費用(予定)</h3>
+
+<h4>6月2日(土) Session Day</h4>
+
+一般参加 ： 2,000円
+懇親会 : 3,000円
+
+<h4>6月3日(日) Contributor Day</h4>
+
+無料]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>297</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-13 04:04:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-13 04:04:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[welcome-to-wordcamp-osaka-2018]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8756254]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[338]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Sitemap</title>
 		<link>https://2018.osaka.wordcamp.org/?page_id=647</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -9540,6 +10685,92 @@ As a new WordPress user, you should go to <a href="https://2018.osaka.wordcamp.o
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[14282178]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>開催概要</title>
+		<link>https://2018.osaka.wordcamp.org/overview/</link>
+		<pubDate>Fri, 16 Mar 2018 10:08:52 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=795</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>795</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:08:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:08:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overview]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15978057]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>タイムテーブル</title>
+		<link>https://2018.osaka.wordcamp.org/?page_id=798</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=798</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>798</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:10:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15978057]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ブログ</title>
+		<link>https://2018.osaka.wordcamp.org/blog/</link>
+		<pubDate>Fri, 16 Mar 2018 10:11:38 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=799</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>799</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:11:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:11:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15978057]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -10170,184 +11401,35 @@ WordCamp Osaka 2018
 		<category domain="category" nicename="others"><![CDATA[Others]]></category>
 	</item>
 	<item>
-		<title>Contact</title>
-		<link>https://2018.osaka.wordcamp.org/contact/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
+		<title>Tickets</title>
+		<link>https://2018.osaka.wordcamp.org/tickets/</link>
+		<pubDate>Fri, 16 Mar 2018 10:20:20 +0000</pubDate>
 		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/contact/</guid>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=13</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[contact-form to="osaka@wordcamp.org" subject="WordCamp Contact Request"][contact-field label="Name" type="name"     required="1" /][contact-field label="Email" type="email"    required="1" /][contact-field label="Message" type="textarea" required="1" /][/contact-form]</p>]]></content:encoded>
+		<content:encoded><![CDATA[<em>Organizers note:</em> If you'd like to change the slug for this page, please make sure you do that before opening ticket sales. Changing the page slug after tickets have started selling will break the link that users receive in their receipt e-mail.
+
+[camptix]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:20:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:20:20]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:post_name><![CDATA[tickets]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_a9632fd55caa75da13e45625836a92af3ecddca7]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[contact-field label="Name" type="name"     required="1" /][contact-field label="Email" type="email"    required="1" /][contact-field label="Message" type="textarea" required="1" /]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_a9632fd55caa75da13e45625836a92af3ecddca7]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:17;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Social Media Stream</title>
-		<link>https://2018.osaka.wordcamp.org/social-media-stream/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/social-media-stream/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><em>Organizers note:</em> The [[tagregator]] shortcode will pull in a stream of social media posts and display them. In order to use it, you'll need to follow the setup instructions at http://wordpress.org/plugins/tagregator/installation, and then update "#wcxyz" below with your hashtag.</p> <p>[tagregator hashtag="#wcxzy"]</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[social-media-stream]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>行動規範</title>
-		<link>https://2018.osaka.wordcamp.org/code-of-conduct/</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/code-of-conduct/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h2>1. 目的</h2>
-
-WordCamp Osaka は、私たちのコミュニティが誰にでも真にオープンであるべきだと考えています。このため、私たちは性別・性的指向・身体障害・民族・宗教・好みの OS やプログラミング言語、テキストエディターにかかわらず、誰に対してもフレンドリーで安全で快適な環境を提供できるよう尽力します。
-
-この行動規範では、参加者の行動に求めることと、受け入れがたい行為が招く結果について要点をまとめています。
-
-すべてのスポンサー、ボランティア、一般来場者、その他の参加者の皆さんが、誰にとっても安全で快い体験ができるカンファレンスを実現するために協力してくれることを歓迎します。
-
-<h2>2. オープンソース市民</h2>
-
-この行動規範のもうひとつのゴールは、参加者が私たちのしていることとコミュニティ全体の関係を認識し、強化することによって「オープンソース市民」を増やすということです。
-
-このゴールを達成するために、WordCamp Osaka の運営者はイベントを通して模範となる「市民」の推薦を受け付け、カンファレンス後にサイト上で選ばれた出席者を表彰します。私たちのコミュニティが心地よく、フレンドリーで、すべての参加者が最大限に貢献できるようにするために特別努力している人を見かけた場合、ぜひ受付や運営者に推薦してください。
-
-<h2>3. 求められる行動</h2>
-
-<ul>
-<li>思いやりを持ち、お互いを尊重し、協力的に行動しましょう。</li>
-<li>品位のない、差別的・迷惑な行動や発言は慎みましょう。</li>
-<li>周辺や、他の参加者に気を配りましょう。危険な状況や誰かが困っている事に気づいたら、カンファレンス運営者に知らせましょう。</li>
-<li>偽りのない、能動的なやり方で参加しましょう。そうすることで、WordCamp Osaka の運営に協力し、自分らしいものにできます。</li>
-</ul>
-
-<h2>4. 受け入れがたい行為</h2>
-
-「受け入れがたい行為」には以下が含まれます。
-
-<ul>
-<li>WordCamp Osaka および関連するイベントにおける参加者による威嚇的・迷惑・虐待的・差別的・軽蔑的・屈辱的な行為。</li>
-</ul>
-
-WordCamp Osaka のすべての会場は公衆と共有されている場合があります。そういった場所で他のお客さんの迷惑にならないようにしてください。
-
-<h2>「迷惑行為」には以下が含まれます。</h2>
-
-<ul>
-<li>性別・性的指向・人種・宗教・障害に関する攻撃的な口頭のコメント</li>
-<li>プレゼンスライドを含む公的空間においての裸体や性的画像の不適切な使用</li>
-<li>嫌がらせとなる写真撮影や録音</li>
-<li>プレゼンその他のイベントに対する継続的な妨害</li>
-<li>不適切な身体的接触</li>
-<li>歓迎されていない性的な注目</li>
-</ul>
-
-<h2>5. 受け入れがたい行為が招く結果</h2>
-
-受け入れがたい行為は、他の一般来場者、運営者、会場スタッフ、スポンサー、WordCamp Osaka の会場に来ている他のお客さん、いずれによるものであれ、許容されません。
-
-受け入れがたい行為をやめるように言われた方は、直ちに応じることが求められます。
-
-もし参加者が受け入れがたい行為を行った場合は、その人に警告や返金なしにカンファレンスから退場してもらうことも含め、カンファレンスの運営者は自身が適切だと考える対応を取る可能性があります。
-
-<h2>6. 受け入れがたい行為を目にした場合・その被害を被った場合</h2>
-
-もし自身が受け入れがたい行為にさらされたり、誰かがそのような行為を受けていたり、その他気になることがあったりした場合は、できるだけ早くカンファレンス運営者にお知らせください。
-
-WordCamp Osaka チームは、参加者が会場の警備員や地域の警察に連絡するのを手伝ったり、付き添いをしたり、その他の方法で受け入れがたい行為にさらされている方に力を貸すことにより、カンファレンス期間中安心して過ごしていただけるように応対可能です。ボランティアはスタッフ用の T シャツを身につけています。ボランティアは誰でもカンファレンス運営者に連絡するお手伝いができます。また、ロビーの受付で運営者を呼び出すこともできます。
-
-<h2>7. 適用範囲</h2>
-
-イベント参加者すべて (スポンサー、ボランティア、スピーカー、一般来場者、その他のゲスト) が、全イベント会場およびイベントに関連する行事などにおいてこの行動規範に従うことを期待します。
-
-<h2>8. 連絡先情報</h2>
-
-以下のフォームから、このコミュニティガイドラインについてイベントの開催前に、運営者へ連絡することができます。
-
-[contact-form to="osaka@wordcamp.org" subject="WordCamp Contact Request"][contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /][/contact-form]
-
-<h2>9. ライセンスと帰属</h2>
-
-この行動規範は Open Source Bridge のすばらしい成果をお借りして、当イベントの情報に入れ替えたものです。原文は にて <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons 表示 – 継承</a> ライセンスのもとにリリースされています。
-
-<hr />
-
-このページの文章は、WordCamp Central の「<a href="http://opensourcebridge.org/about/code-of-conduct/">Code of Conduct</a>」に加筆・修正したものです。
-日本語訳: 2018年02月13日]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[code-of-conduct]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[8756254]]></wp:meta_value>
+			<wp:meta_value><![CDATA[15978057]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_a1468d67c497675e16e1b5f30b73a7e8a5d2d494]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_a1468d67c497675e16e1b5f30b73a7e8a5d2d494]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:19;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[338]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -10639,285 +11721,63 @@ WordCamp Osaka チームは、参加者が会場の警備員や地域の警察�
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>WELCOME to WordCamp Osaka 2018</title>
-		<link>https://2018.osaka.wordcamp.org/en/</link>
-		<pubDate>Tue, 13 Feb 2018 03:38:32 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=281</guid>
+		<title>Hiroshi Urabe</title>
+		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=198</link>
+		<pubDate>Tue, 06 Feb 2018 07:42:53 +0000</pubDate>
+		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=198</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>WordCamp Kansai 2018</h2>
-
-WordCamp Osaka 2018 will be held on 2-3 June, 2018 at Kansai University Umeda Campus (KANDAI Me RISE)!
-
-WordCamp Osaka aims to make the exciting place to share and learn various knowledge and experiences for a product management, a business facilitation and others, utilizing WordPress. We hope to become a good opportunity for all participants by various communications.
-
-Now, the executive members are making an effort to prepare various excellent contents. We will inform when they are ready.
-
-<h3>Date and Time</h3>
-
-Day 1: June 2nd (Sat), 2018 - Session Day
-Day 2: June 3rd (Sun), 2018 - Contributor Day
-
-<h3>Venue</h3>
-
-<strong>Kansai University Umeda Campus - KANDAI Me RISE 4F/7F/8F</strong>
-<small>(Reception is on the 4th floor.)</small>
-
-<a href="http://www.kansai-u.ac.jp/English/about_ku/umeda_map.html" target="_blank" rel="noopener">Official Page</a>
-
-<h3>Kansai University Umeda Canvas KANDAI Me RISE</h3>
-
-Address : 1-5 Tsuruno-cho, Kita-ku, Osaka-shi, Osaka, 530-0014
-
-[googlemaps https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13119.817277762586!2d135.5010789!3d34.7063321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd91debb4ce1db8dd!2z6Zai6KW_5aSn5a2mIOaiheeUsOOCreODo-ODs-ODkeOCuSBLQU5EQUkgTWUgUklTRQ!5e0!3m2!1sja!2sjp!4v1518494619197&amp;w=100%&amp;h=450&amp;zoom=15]
-
-<h3>Maximum Attendees</h3>
-
-Day 1 - 450 people
-Day 2 - 100 people
-
-<h3>Participation fee</h3>
-
-<h4>Day 1 - Session Day (June 2nd)</h4>
-
-Session : ¥2,000 (Japanese yen)
-After Party : ¥3,000 (Japanese yen)
-
-<h4>Day 2 - Contributor Day (June 3rd)</h4>
-
-Free]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>281</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-13 03:38:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-13 03:38:32]]></wp:post_date_gmt>
+		<wp:post_id>198</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-06 07:42:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-06 07:42:53]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[en]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>99</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[7293519]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Code of Conduct</title>
-		<link>https://2018.osaka.wordcamp.org/en/code-of-conduct/</link>
-		<pubDate>Tue, 13 Feb 2018 03:39:53 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=283</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h2>1. Purpose</h2>
-
-WordCamp Osaka believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
-
-his code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
-
-We invite all sponsors, volunteers, speakers, attendees, and other participants to help us realize a safe and positive conference experience for everyone.
-
-<h2>2. Open Source Citizenship</h2>
-
-A supplemental goal of this code of conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between what we do and the community at large.
-
-In service of this goal, WordCamp Osaka organizers will be taking nominations for exemplary citizens throughout the event and will recognize select participants after the conference on the website.
-
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
-
-<h2>3. Expected Behavior</h2>
-
-<ul>
-<li>Be considerate, respectful, and collaborative.</li>
-<li>Refrain from demeaning, discriminatory or harassing behavior and speech.</li>
-<li>Be mindful of your surroundings and of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.</li>
-<li>Participate in an authentic and active way. In doing so, you help to create WordCamp Osaka and make it your own.</li>
-</ul>
-
-<h2>4. Unacceptable Behavior</h2>
-
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of WordCamp Osaka and related events.
-All WordCamp Osaka venues may be shared with members of the public; please be respectful to all patrons of these locations.
-
-Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
-
-<h2>5. Consequences Of Unacceptable Behavior</h2>
-
-Unacceptable behavior will not be tolerated whether by other attendees, organizers, venue staff, sponsors, or other patrons of WordCamp Osaka venues.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, up to and including expulsion from the conference without warning or refund.
-
-<h2>6. What To Do If You Witness Or Are Subject To Unacceptable Behavior</h2>
-
-If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a conference organizer as soon as possible.
-
-WordCamp Osaka team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference.
-Any volunteer can connect you with a conference organizer. You can also come to the special registration desk in the lobby and ask for the organizers.
-
-<h2>7. Scope</h2>
-
-We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
-
-<h2>8. Contact Information</h2>
-
-[contact-form to="osaka@wordcamp.org" subject="WordCamp Contact Request"]
-[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]
-[/contact-form]
-
-<h2>9. License And Attribution</h2>
-
-This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at and is released under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> license.
-
-<hr />
-
-Update : February 13th, 2018]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>283</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-13 03:39:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-13 03:39:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[code-of-conduct]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>99</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[8756254]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_af514560606682d3cdac62ca2093407c9807dffb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[
-[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]
-]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_af514560606682d3cdac62ca2093407c9807dffb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:283;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_b4c72a09a9af6b9c1569e5a54851ed7887e50b59]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<br />
-[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Message" type="textarea" required="1" /]<br />
-]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_b4c72a09a9af6b9c1569e5a54851ed7887e50b59]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:2:"to";s:18:"osaka@wordcamp.org";s:7:"subject";s:24:"WordCamp Contact Request";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:283;s:18:"submit_button_text";s:13:"送信 &#187;";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[338]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>WordCamp Osaka 2018 へようこそ</title>
-		<link>https://2018.osaka.wordcamp.org/</link>
-		<pubDate>Tue, 13 Feb 2018 04:04:48 +0000</pubDate>
-		<dc:creator><![CDATA[gouten5010]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=297</guid>
-		<description></description>
-		<content:encoded><![CDATA[いよいよ WordCamp Osaka 2018 が開催されます。
-
-日程は2018年6月2日（土）・3日（日）の2日間。
-会場は関西大学梅田キャンパス KANDAI Me RISE にて開催します。
-
-WordCamp Osaka 2018 では、WordPressをうまく利用してプロダクトを運用したり、WordPressを利用したビジネスを展開しているのか、また様々な人がWordPressをどのように利用しているかを交流しながら共有する場にすることを目指しています。
-そして、WordPressに関わるさまざまな人達と ーもちろんこれまで関わったことのなかった人達ともー 関わることで、自分たちのWordPressのプロダクトや使い方により良く活かせるようなきっかけになればと考えています。
-
-ここ数年で開催された関西のWordCampのように無料ではなく、有料のチケットを購入して参加して頂く形にはなりますが、来場される方がたに、価格に負けないコンテンツが提供できればと思います。
-
-現在準備を実行委員チームで進めており、準備ができ次第、順次情報を公開していく予定です。
-セッションの詳細やタイムテーブルは順を追ってサイトで紹介していくので、ぜひチェックしてください。
-
-<h2>開催概要</h2>
-
-<h3>名称</h3>
-
-WordCamp Osaka 2018
-
-<h3>日時</h3>
-
-2018年6月2日(土) Session Day
-2018年6月3日(日) Contributor Day
-
-<h3>会場</h3>
-
-<strong>関西大学梅田キャンパス KANDAI Me RISE 4F/7F/8F</strong>
-<small>※受付は4Fの予定ですので、当日はまず４Fにお上がりください</small>
-
-<h4>関西大学梅田キャンパス KANDAI Me RISE</h4>
-
-〒530-0014 大阪府大阪市北区鶴野町1番5号
-
-[googlemaps https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13119.817277762586!2d135.5010789!3d34.7063321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd91debb4ce1db8dd!2z6Zai6KW_5aSn5a2mIOaiheeUsOOCreODo-ODs-ODkeOCuSBLQU5EQUkgTWUgUklTRQ!5e0!3m2!1sja!2sjp!4v1518494619197&amp;w=100%&amp;h=450&amp;zoom=15]
-
-<h3>会場定員</h3>
-
-6月2日(土) 450名
-6月3日(日) 100名
-
-<h3>参加費用(予定)</h3>
-
-<h4>6月2日(土) Session Day</h4>
-
-一般参加 ： 2,000円
-懇親会 : 3,000円
-
-<h4>6月3日(日) Contributor Day</h4>
-
-無料]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>297</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-13 04:04:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-13 04:04:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[welcome-to-wordcamp-osaka-2018]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[torounit]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wcb_organizer]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6734486]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6734486]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Daisuke KONISHI</title>
+		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=209</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Daisuke Konishi]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=209</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>209</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-07 13:34:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_organizer]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[8756254]]></wp:meta_value>
+			<wp:meta_value><![CDATA[14525733]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[338]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14525733]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -11734,66 +12594,6 @@ The suggested topics are several examples among topics. If you want to talk abou
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Hiroshi Urabe</title>
-		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=198</link>
-		<pubDate>Tue, 06 Feb 2018 07:42:53 +0000</pubDate>
-		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=198</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-06 07:42:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-06 07:42:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[torounit]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6734486]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6734486]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Daisuke KONISHI</title>
-		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=209</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Daisuke Konishi]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_organizer&#038;p=209</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>209</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-07 13:34:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14525733]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14525733]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>（仮）WordPress から kintone へ、kintone から WordPressへ</title>
 		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=533</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -11859,6 +12659,36 @@ https://ja.wordpress.org/plugins/kintone-form/
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
 			<wp:meta_value><![CDATA[tsukada tomomi]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>English</title>
+		<link>https://2018.osaka.wordcamp.org/english/</link>
+		<pubDate>Fri, 16 Mar 2018 10:12:36 +0000</pubDate>
+		<dc:creator><![CDATA[marie0219]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?page_id=801</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>801</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-16 19:12:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-16 10:12:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[english]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15978057]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13083,90 +13913,6 @@ What is changing in mobile search in 2018, and what do mobile marketers, website
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>debug2</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed/</link>
-		<pubDate>Thu, 15 Feb 2018 06:51:22 +0000</pubDate>
-		<dc:creator><![CDATA[hideokamoto]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=476</guid>
-		<description></description>
-		<content:encoded><![CDATA[debug2]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>476</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-15 06:51:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Okamoto Hidetaka]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1518677482]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[475]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>とろゆにさんだよ</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-2/</link>
-		<pubDate>Thu, 15 Feb 2018 06:51:23 +0000</pubDate>
-		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=480</guid>
-		<description></description>
-		<content:encoded><![CDATA[とろゆにさんだよ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>480</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-15 06:51:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1518677483]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[479]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>英語を見るだけでクラクラしていた私が、多言語サイトデザイナーになってしまった話</title>
 		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=695</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -13305,6 +14051,258 @@ etcの知見をお話し、今後「ウェブ（プログラミング） * 教�
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
 			<wp:meta_value><![CDATA[ナユ]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>debug2</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed/</link>
+		<pubDate>Thu, 15 Feb 2018 06:51:22 +0000</pubDate>
+		<dc:creator><![CDATA[hideokamoto]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=476</guid>
+		<description></description>
+		<content:encoded><![CDATA[debug2]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>476</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-15 06:51:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Okamoto Hidetaka]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1518677482]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[475]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>とろゆにさんだよ</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-2/</link>
+		<pubDate>Thu, 15 Feb 2018 06:51:23 +0000</pubDate>
+		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=480</guid>
+		<description></description>
+		<content:encoded><![CDATA[とろゆにさんだよ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>480</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-15 06:51:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-2]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1518677483]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[479]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ながの</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-6/</link>
+		<pubDate>Thu, 15 Feb 2018 06:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=482</guid>
+		<description></description>
+		<content:encoded><![CDATA[ながの]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>482</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-15 06:52:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-15 06:52:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-6]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1518677520]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[479]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>topic</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-3/</link>
+		<pubDate>Thu, 15 Feb 2018 06:51:25 +0000</pubDate>
+		<dc:creator><![CDATA[Daisuke Konishi]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=487</guid>
+		<description></description>
+		<content:encoded><![CDATA[test]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>487</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-15 06:51:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-3]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Daisuke KONISHI]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1518677485]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[486]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>てすと</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-4/</link>
+		<pubDate>Thu, 15 Feb 2018 06:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=498</guid>
+		<description></description>
+		<content:encoded><![CDATA[from https://2018.osaka.wordcamp.org/call-for-speakers-en/]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>498</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-15 06:51:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-4]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1518677486]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[479]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>にほんごでもうごくかな</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-5/</link>
+		<pubDate>Thu, 15 Feb 2018 06:51:31 +0000</pubDate>
+		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=506</guid>
+		<description></description>
+		<content:encoded><![CDATA[にほんごでもうごくかな]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>506</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-15 06:51:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-5]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1518677491]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[479]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13796,132 +14794,6 @@ WordPressは、ちょっとした業務システムを高速開発するため�
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>ながの</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-6/</link>
-		<pubDate>Thu, 15 Feb 2018 06:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=482</guid>
-		<description></description>
-		<content:encoded><![CDATA[ながの]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>482</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-15 06:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-15 06:52:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-6]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1518677520]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[479]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>topic</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-3/</link>
-		<pubDate>Thu, 15 Feb 2018 06:51:25 +0000</pubDate>
-		<dc:creator><![CDATA[Daisuke Konishi]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=487</guid>
-		<description></description>
-		<content:encoded><![CDATA[test]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>487</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-15 06:51:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-3]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Daisuke KONISHI]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1518677485]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[486]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>てすと</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-4/</link>
-		<pubDate>Thu, 15 Feb 2018 06:51:26 +0000</pubDate>
-		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=498</guid>
-		<description></description>
-		<content:encoded><![CDATA[from https://2018.osaka.wordcamp.org/call-for-speakers-en/]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>498</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-15 06:51:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-4]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1518677486]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[479]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
 		<link>https://2018.osaka.wordcamp.org/session/__trashed-7/</link>
 		<pubDate>Thu, 15 Feb 2018 06:52:01 +0000</pubDate>
@@ -13953,48 +14825,6 @@ WordPressは、ちょっとした業務システムを高速開発するため�
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1518677521]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[479]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>にほんごでもうごくかな</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-5/</link>
-		<pubDate>Thu, 15 Feb 2018 06:51:31 +0000</pubDate>
-		<dc:creator><![CDATA[Toro_Unit]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=506</guid>
-		<description></description>
-		<content:encoded><![CDATA[にほんごでもうごくかな]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>506</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-15 06:51:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-15 06:51:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-5]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Toro_Unit (Hiroshi Urabe)]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1518677491]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -14495,90 +15325,6 @@ https://ri-c.co.jp]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>no Login test</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-11/</link>
-		<pubDate>Thu, 22 Feb 2018 16:28:17 +0000</pubDate>
-		<dc:creator><![CDATA[Toro]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=608</guid>
-		<description></description>
-		<content:encoded><![CDATA[no Login test]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>608</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-23 01:28:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-22 16:28:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-11]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no Login test]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1519316897]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[607]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>guest test title</title>
-		<link>https://2018.osaka.wordcamp.org/session/__trashed-12/</link>
-		<pubDate>Tue, 06 Mar 2018 13:43:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=716</guid>
-		<description></description>
-		<content:encoded><![CDATA[guest test title]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>716</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 22:43:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 13:43:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-12]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Guestviata]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1520343787]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[715]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>大東 信仁</title>
 		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=571</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -14699,6 +15445,90 @@ https://ri-c.co.jp]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7957548]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>no Login test</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-11/</link>
+		<pubDate>Thu, 22 Feb 2018 16:28:17 +0000</pubDate>
+		<dc:creator><![CDATA[Toro]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=608</guid>
+		<description></description>
+		<content:encoded><![CDATA[no Login test]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>608</wp:post_id>
+		<wp:post_date><![CDATA[2018-02-23 01:28:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-02-22 16:28:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-11]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no Login test]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1519316897]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[607]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>guest test title</title>
+		<link>https://2018.osaka.wordcamp.org/session/__trashed-12/</link>
+		<pubDate>Tue, 06 Mar 2018 13:43:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_session&#038;p=716</guid>
+		<description></description>
+		<content:encoded><![CDATA[guest test title]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>716</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-06 22:43:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 13:43:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-12]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_session]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_session_speakers]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Guestviata]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1520343787]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_speaker_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[715]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -15882,6 +16712,140 @@ http://www.zzrock.net/]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>田渕盛衛</title>
+		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=752</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[wordcamp]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=752</guid>
+		<description></description>
+		<content:encoded><![CDATA[お世話になっております。
+
+田渕盛衛（たぶちもりえ）と申します。
+
+年齢は30歳、大阪梅田でブログ運営、インターネット系事業をしております。
+
+主に個人向けにWordPressでのブログづくりをサポートしたり、ディスカッションするコミュニティを主宰しております。
+
+もともとは医学部に通っていましたが、中退して今は事業1本で生きています。
+
+どうぞよろしくお願いいたします。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>752</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-07 22:48:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[netmorie@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15971797]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>堀江 圭介</title>
+		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=755</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[wordcamp]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=755</guid>
+		<description></description>
+		<content:encoded><![CDATA[ホスティング(レンタルサーバー)サービスを提供するエックスサーバー株式会社に入社して丸3年を経過。入社当初からカスタマーサポートを担当。
+WordPressとの関わりは2010年にリリースされた3.0の頃から。WordPress + BuddyPressを採用した地域SNSのサイトで運用管理も担当した過去実績もあり。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>755</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-07 23:11:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[kei@j-kei.net]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14524611]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>赤松　靖生</title>
+		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=758</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[wordcamp]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=758</guid>
+		<description></description>
+		<content:encoded><![CDATA[消費者法務コンサルタント。
+消費者センターの元行政技術職員として11年間で15万件以上の相談を経験しました。事業者向けに、消費者との契約や取引についての法律の知識や使い方をアドバイスしています。また、信頼されるホームページをつくるための広告規制についてもアドバイスしています。
+ワードプレス暦8年。資格試験の会員制WEBサイトを運営。
+企業研修・セミナー講師。ワードプレスを使ったホームページ制作支援。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>758</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-07 23:58:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[akamatsu999@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2083311]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Fulvio Notarstefano</title>
+		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=761</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[wordcamp]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=761</guid>
+		<description></description>
+		<content:encoded><![CDATA[I am from Italy, and live in Taiwan. I currently work remotely with SkyVerge, the largest supplier of WooCommerce extensions and core contributor of the WooCommerce project. I am the lead developer behind WooCommerce Memberships and other popular WooCommerce extensions. I've visited Japan quite often and have met many members of the local WordPress community there.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>761</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-08 00:31:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[fulvio@skyverge.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[13916915]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>WooCommerce</title>
 		<link>https://2018.osaka.wordcamp.org/sponsor/woocommerce/</link>
 		<pubDate>Mon, 23 Oct 2017 10:27:09 +0000</pubDate>
@@ -16508,6 +17472,114 @@ We are looking for talent. If you are a smart programmer you are welcome to cont
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>7j6f</title>
+		<link>https://2018.osaka.wordcamp.org/?wcm_task=7j6f</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=7j6f</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[7j6f]]></wp:post_name>
+		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>70</wp:menu_order>
+		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="wcm_task_category" nicename="committee"><![CDATA[committee]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>siq8</title>
+		<link>https://2018.osaka.wordcamp.org/?wcm_task=siq8</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=siq8</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[siq8]]></wp:post_name>
+		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>80</wp:menu_order>
+		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="wcm_task_category" nicename="committee"><![CDATA[committee]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>lkcs</title>
+		<link>https://2018.osaka.wordcamp.org/?wcm_task=lkcs</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=lkcs</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lkcs]]></wp:post_name>
+		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>90</wp:menu_order>
+		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="wcm_task_category" nicename="swag"><![CDATA[swag]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>5j0m</title>
+		<link>https://2018.osaka.wordcamp.org/?wcm_task=5j0m</link>
+		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
+		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=5j0m</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[5j0m]]></wp:post_name>
+		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>100</wp:menu_order>
+		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="wcm_task_category" nicename="food"><![CDATA[food]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Okamoto Hidetaka</title>
 		<link>https://2018.osaka.wordcamp.org/speaker/__trashed-3/</link>
 		<pubDate>Thu, 15 Feb 2018 06:51:50 +0000</pubDate>
@@ -16634,140 +17706,6 @@ We are looking for talent. If you are a smart programmer you are welcome to cont
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>田渕盛衛</title>
-		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=752</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[wordcamp]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=752</guid>
-		<description></description>
-		<content:encoded><![CDATA[お世話になっております。
-
-田渕盛衛（たぶちもりえ）と申します。
-
-年齢は30歳、大阪梅田でブログ運営、インターネット系事業をしております。
-
-主に個人向けにWordPressでのブログづくりをサポートしたり、ディスカッションするコミュニティを主宰しております。
-
-もともとは医学部に通っていましたが、中退して今は事業1本で生きています。
-
-どうぞよろしくお願いいたします。]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>752</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-07 22:48:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
-			<wp:meta_value><![CDATA[netmorie@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[15971797]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>堀江 圭介</title>
-		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=755</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[wordcamp]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=755</guid>
-		<description></description>
-		<content:encoded><![CDATA[ホスティング(レンタルサーバー)サービスを提供するエックスサーバー株式会社に入社して丸3年を経過。入社当初からカスタマーサポートを担当。
-WordPressとの関わりは2010年にリリースされた3.0の頃から。WordPress + BuddyPressを採用した地域SNSのサイトで運用管理も担当した過去実績もあり。]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>755</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-07 23:11:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
-			<wp:meta_value><![CDATA[kei@j-kei.net]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14524611]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>赤松　靖生</title>
-		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=758</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[wordcamp]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=758</guid>
-		<description></description>
-		<content:encoded><![CDATA[消費者法務コンサルタント。
-消費者センターの元行政技術職員として11年間で15万件以上の相談を経験しました。事業者向けに、消費者との契約や取引についての法律の知識や使い方をアドバイスしています。また、信頼されるホームページをつくるための広告規制についてもアドバイスしています。
-ワードプレス暦8年。資格試験の会員制WEBサイトを運営。
-企業研修・セミナー講師。ワードプレスを使ったホームページ制作支援。]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>758</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-07 23:58:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
-			<wp:meta_value><![CDATA[akamatsu999@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2083311]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Fulvio Notarstefano</title>
-		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=761</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[wordcamp]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=761</guid>
-		<description></description>
-		<content:encoded><![CDATA[I am from Italy, and live in Taiwan. I currently work remotely with SkyVerge, the largest supplier of WooCommerce extensions and core contributor of the WooCommerce project. I am the lead developer behind WooCommerce Memberships and other popular WooCommerce extensions. I've visited Japan quite often and have met many members of the local WordPress community there.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>761</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-08 00:31:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wcb_speaker]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcb_speaker_email]]></wp:meta_key>
-			<wp:meta_value><![CDATA[fulvio@skyverge.com]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[13916915]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>ShinichiN</title>
 		<link>https://2018.osaka.wordcamp.org/?post_type=wcb_speaker&#038;p=766</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
@@ -16840,114 +17778,6 @@ WEBマーケティング・WEB広告を専門とする企業で６年間役員�
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wcpt_user_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[15865543]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>7j6f</title>
-		<link>https://2018.osaka.wordcamp.org/?wcm_task=7j6f</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
-		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=7j6f</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[7j6f]]></wp:post_name>
-		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>70</wp:menu_order>
-		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="wcm_task_category" nicename="committee"><![CDATA[committee]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>siq8</title>
-		<link>https://2018.osaka.wordcamp.org/?wcm_task=siq8</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
-		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=siq8</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[siq8]]></wp:post_name>
-		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>80</wp:menu_order>
-		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="wcm_task_category" nicename="committee"><![CDATA[committee]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>lkcs</title>
-		<link>https://2018.osaka.wordcamp.org/?wcm_task=lkcs</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
-		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=lkcs</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[lkcs]]></wp:post_name>
-		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>90</wp:menu_order>
-		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="wcm_task_category" nicename="swag"><![CDATA[swag]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>5j0m</title>
-		<link>https://2018.osaka.wordcamp.org/?wcm_task=5j0m</link>
-		<pubDate>Mon, 23 Oct 2017 10:27:11 +0000</pubDate>
-		<dc:creator><![CDATA[hlashbrooke]]></dc:creator>
-		<guid isPermaLink="false">https://2018.osaka.wordcamp.org/?wcm_task=5j0m</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 10:27:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 10:27:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[5j0m]]></wp:post_name>
-		<wp:status><![CDATA[wcm_task_pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>100</wp:menu_order>
-		<wp:post_type><![CDATA[wcm_task]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="wcm_task_category" nicename="food"><![CDATA[food]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wcm-data-version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[20170323]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
