@@ -6,8 +6,6 @@
 $ git clone git@github.com:wcosaka2018/wc-vccw.git
 $ cd wc-vccw
 $ vagrant up
-$ npm install
-$ npm start
 ```
 To get started, check out <http://year.place.wordcamp.test/>  
 ex. http://2018.osaka.wordcamp.org/
