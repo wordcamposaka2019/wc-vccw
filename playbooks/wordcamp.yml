@@ -115,6 +115,9 @@
   - name: Activate all plugin
     command: "wp plugin activate --all --network"
 
+  - name: Activate WordCamp.org Post Types plugin
+    command: "wp plugin activate wc-post-types"
+
   - name: Deactivate plugin
     command: "wp plugin deactivate akismet --network"
 
