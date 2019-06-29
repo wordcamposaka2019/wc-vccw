@@ -40,7 +40,9 @@
         camptix-admin-flags,
         camptix-attendance,
         camptix-badge-generator,
+        camptix-invoices,
         camptix-mailchimp,
+        camptix-network-tools,
         email-post-changes-specific-post,
         jquery-ui-css,
         multi-event-sponsors,
@@ -63,7 +65,6 @@
         wordcamp-remote-css,
         wordcamp-reports,
         wordcamp-site-cloner,
-        # wordcamp-spreadsheets,
         wordcamp-wiki
       ]
     subversion:
