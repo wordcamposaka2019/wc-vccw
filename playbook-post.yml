@@ -9,7 +9,7 @@
   - name: Install Your WordCamp Theme from Git
     when: theme.stat.exists != true
     git:
-      repo: git@github.com:wordcamposaka2019/website-theme.git # Set repository.
+      repo: https://github.com/wordcamposaka2019/website-theme.git # Set repository.
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamposaka2019" # Assign directory.
       version: develop # Select Branch.
 
