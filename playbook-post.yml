@@ -5,22 +5,17 @@
 
   tasks:
 
-  # Set git init Your WordCamp theme Directory.
-  - stat:
-      path: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-japan-theme/.git" # Assign directory.
-    register: theme
-
   # Git clone your WordCamp theme repository.
   - name: Install Your WordCamp Theme from Git
     when: theme.stat.exists != true
     git:
-      repo: https://github.com/wcosaka2018/wcosaka2018-theme.git # Set repository.
-      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wcosaka2018-theme" # Assign directory.
+      repo: git@github.com:wordcamposaka2019/website-theme.git # Set repository.
+      dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamposaka2019" # Assign directory.
       version: develop # Select Branch.
 
   - name: Activate theme
-    command: "wp theme enable wcosaka2018-theme --activate"
+    command: "wp theme enable wordcamposaka2019 --activate"
 
   # Import your WordCamp posts data(XML).
-#  - name: Import your WordCamp posts
-#    command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-03-14.xml --authors=create" # set posts xml file.
+  # - name: Import your WordCamp posts
+  #   command: "wp import {{ vccw.vagrant_dir }}/wordcamposaka2018.wordpress.2018-03-14.xml --authors=create" # set posts xml file.

@@ -4,8 +4,8 @@
 #
 # Network Settings
 #
-hostname: 2018.osaka.wordcamp.test
-ip: 192.168.20.18
+hostname: 2019.osaka.wordcamp.test
+ip: 192.168.20.19
 
 #
 # WordPress Settings
@@ -19,9 +19,9 @@ rewrite_structure: /%postname%/
 #
 # WordPress User
 #
-admin_user: vccw
-admin_pass: vccw
-admin_email: wcosaka2018@wordcamp.test
+admin_user: wcosaka2019
+admin_pass: wcosaka2019
+admin_email: wcosaka2019@wordcamp.test
 
 #
 # WordPress Default Plugins
@@ -41,13 +41,13 @@ plugins: [
 # WordPress Default Theme
 # Theme's slug or url to the theme's .zip.
 #
-theme: 'twentyseventeen'
+theme: 'twentynineteen'
 
 #
 # WordPress Options
 #
 options:
-  blogdescription: 'Hallo, WordCamp!!'
+  blogdescription: 'Hallo, WordCamp Osaka 2019!!'
 
 #
 # Theme unit testing
