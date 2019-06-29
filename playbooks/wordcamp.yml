@@ -58,12 +58,12 @@
         wordcamp-participation-notifier,
         wordcamp-payments,
         wordcamp-payments-network,
-#        wordcamp-qbo,
-#        wordcamp-qbo-client,
+        # wordcamp-qbo,
+        # wordcamp-qbo-client,
         wordcamp-remote-css,
         wordcamp-reports,
         wordcamp-site-cloner,
-        wordcamp-spreadsheets,
+        # wordcamp-spreadsheets,
         wordcamp-wiki
       ]
     subversion:
