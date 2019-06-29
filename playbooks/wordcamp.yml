@@ -45,18 +45,18 @@
         # camptix-network-tools,
         email-post-changes-specific-post,
         jquery-ui-css,
-        multi-event-sponsors,
+        # multi-event-sponsors,
         wc-canonical-years,
         wc-fonts,
         wc-post-types,
-        wcpt,
+        # wcpt,
         wordcamp-api,
         wordcamp-coming-soon-page,
         wordcamp-dashboard-widgets,
         wordcamp-docs,
         wordcamp-forms-to-drafts,
         wordcamp-mentors,
-        wordcamp-organizer-reminders,
+        # wordcamp-organizer-reminders,
         wordcamp-participation-notifier,
         wordcamp-payments,
         wordcamp-payments-network,
@@ -100,6 +100,10 @@
 
   - file:
       path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/wcorg-global-login.php"
+      state: absent
+
+  - file:
+      path: "{{ vccw.vagrant_dir }}/wordpress/wp-content/mu-plugins/load-other-mu-plugins.php"
       state: absent
 
   - name: Checkout WordCamp Redux v2 Theme from SVN
