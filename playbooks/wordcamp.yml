@@ -42,7 +42,7 @@
         camptix-badge-generator,
         camptix-invoices,
         camptix-mailchimp,
-        camptix-network-tools,
+        # camptix-network-tools,
         email-post-changes-specific-post,
         jquery-ui-css,
         multi-event-sponsors,
