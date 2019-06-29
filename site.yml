@@ -28,11 +28,9 @@ admin_email: wcosaka2019@wordcamp.test
 # Plugin's slug or url to the plugin's slug.
 #
 plugins: [
-  gutenberg
   camptix-pagseguro
   camptix-payfast-gateway
   jetpack
-  wp-multibyte-patch
   wordpress-importer
   tagregator
 ]
