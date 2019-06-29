@@ -12,7 +12,7 @@ ip: 192.168.20.19
 #
 version: latest
 lang: ja
-title: Development - WordCamp Osaka 2018
+title: Development - WordCamp Osaka 2019
 rewrite_structure: /%postname%/
 
 
