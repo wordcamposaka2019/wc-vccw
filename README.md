@@ -3,7 +3,7 @@
 ## Getting started
 
 ```
-$ git clone git@github.com:wcosaka2019/wc-vccw.git
+$ git clone https://github.com/wordcamposaka2019/wc-vccw.git
 $ cd wc-vccw
 $ vagrant up
 ```
