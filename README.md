@@ -3,12 +3,12 @@
 ## Getting started
 
 ```
-$ git clone https://github.com/wordcamposaka2019/wc-vccw.git
-$ cd wc-vccw
+$ git clone https://github.com/WordCampOgijima2020/wcogijima-vccw.git
+$ cd wcogijima-vccw
 $ vagrant up
 ```
 To get started, check out <http://year.place.wordcamp.test/>  
-ex. http://2018.osaka.wordcamp.org/
+ex. 2020.ogijima.wordcamp.test/
 
 Start development on <http://localhost:3000/> !
 
