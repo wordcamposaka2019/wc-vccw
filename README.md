@@ -8,7 +8,7 @@ $ cd wcogijima-vccw
 $ vagrant up
 ```
 To get started, check out <http://year.place.wordcamp.test/>  
-ex. 2020.ogijima.wordcamp.test/
+ex. http://2020.ogijima.wordcamp.test/
 
 Start development on <http://localhost:3000/> !
 
