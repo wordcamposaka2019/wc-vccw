@@ -4,7 +4,7 @@
 #
 # Network Settings
 #
-hostname: 2019.osaka.wordcamp.test
+hostname: 2020.ogijima.wordcamp.test
 ip: 192.168.20.19
 
 #
@@ -12,16 +12,16 @@ ip: 192.168.20.19
 #
 version: latest
 lang: ja
-title: Development - WordCamp Osaka 2019
+title: Development - WordCamp Ogijima 2020
 rewrite_structure: /%postname%/
 
 
 #
 # WordPress User
 #
-admin_user: wcosaka2019
-admin_pass: wcosaka2019
-admin_email: wcosaka2019@wordcamp.test
+admin_user: wcogijima2020
+admin_pass: wcogijima2020
+admin_email: wcogijima2020@wordcamp.test
 
 #
 # WordPress Default Plugins
@@ -39,13 +39,13 @@ plugins: [
 # WordPress Default Theme
 # Theme's slug or url to the theme's .zip.
 #
-theme: 'twentynineteen'
+theme: 'twentytwenty'
 
 #
 # WordPress Options
 #
 options:
-  blogdescription: 'Hallo, WordCamp Osaka 2019!!'
+  blogdescription: 'Hallo, WordCamp ogijima 2020!!'
 
 #
 # Theme unit testing
