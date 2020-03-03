@@ -45,9 +45,9 @@
         #camptix-mercadopago,
         #camptix-kdcpay-gateway,
         #campt-indian-payment-gateway,
-        jquery-ui-css,
+        #jquery-ui-css,
         # multi-event-sponsors,
-        wc-canonical-years,
+        #wc-canonical-years,
         wc-fonts,
         wc-post-types,
         # wcpt,
@@ -58,7 +58,7 @@
         wordcamp-forms-to-drafts,
         wordcamp-mentors,
         # wordcamp-organizer-reminders,
-        wordcamp-participation-notifier,
+        #wordcamp-participation-notifier,
         wordcamp-payments,
         wordcamp-payments-network,
         # wordcamp-qbo,
@@ -78,19 +78,19 @@
   - name: Checkout plugin from SVN
     vars:
       wp_plugins: [
-        buddypress,
+        #buddypress,
         bbpress,
         edit-flow,
         email-post-changes,
-        hyperdb,
+        #hyperdb,
         liveblog,
         public-post-preview,
         pwa,
-        polldaddy,
+        #polldaddy,
         supportflow,
         wp-super-cache,
         wp-cldr,
-        custom-content-width
+        #custom-content-width
       ]
     subversion:
       repo: https://plugins.svn.wordpress.org/{{ item }}/trunk
@@ -127,11 +127,11 @@
   - name: Activate all plugin
     command: "wp plugin activate --all --network"
 
-  - name: Activate WordCamp.org Post Types plugin
-    command: "wp plugin activate wc-post-types"
+#  - name: Activate WordCamp.org Post Types plugin
+#    command: "wp plugin activate wc-post-types"
 
-  - name: Deactivate plugin
-    command: "wp plugin deactivate akismet --network"
+#  - name: Deactivate plugin
+#    command: "wp plugin deactivate akismet --network"
 
   - name: Update core language files.
     command: "wp core language update"
