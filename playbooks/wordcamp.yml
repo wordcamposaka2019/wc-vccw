@@ -124,17 +124,17 @@
       dest: "{{ vccw.document_root }}/{{ vccw.wp_siteurl }}/wp-content/themes/wordcamp-base-v2"
     ignore_errors: yes
 
-  - name: Activate all plugin
-    command: "wp plugin activate --all --network"
-
-#  - name: Activate WordCamp.org Post Types plugin
-#    command: "wp plugin activate wc-post-types"
-
-#  - name: Deactivate plugin
-#    command: "wp plugin deactivate akismet --network"
-
   - name: Update core language files.
     command: "wp core language update"
 
   - name: Update plugin
     command: "wp plugin update --all"
+
+  - name: Activate WordCamp.org Post Types plugin
+    command: "wp plugin activate wc-post-types --network"
+
+#  - name: Activate all plugin
+#    command: "wp plugin activate --all --network"
+
+#  - name: Deactivate plugin
+#    command: "wp plugin deactivate akismet --network"
