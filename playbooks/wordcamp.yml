@@ -37,18 +37,14 @@
     vars:
       wc_plugins: [
         camptix-network-tools,
-        # は、インストールされているので不要
-        ##は、インストールエラー 修正必要
-        ## email-post-changes,
-        ## tagregator,
-        ## supportflow,
-        #  camptix-pagseguro,
-        #  camptix-payfast-gateway,
-        ## camptix-trustpay,
-        ## camptix-trustcard,
-        ## camptix-mercadopago,
-        ## camptix-kdcpay-gateway,
-        ## campt-indian-payment-gateway
+        #tagregator,
+        #camptix-pagseguro,
+        #camptix-payfast-gateway,
+        #camptix-trustpay,
+        #camptix-trustcard,
+        #camptix-mercadopago,
+        #camptix-kdcpay-gateway,
+        #campt-indian-payment-gateway
       ]
     subversion:
       repo: https://meta.svn.wordpress.org/sites/trunk/wordcamp.org/public_html/wp-content/plugins/{{ item }}
@@ -60,17 +56,18 @@
   - name: Checkout plugin from SVN
     vars:
       wp_plugins: [
-        #は、インストールされているので不要
-        # akismet,
         buddypress,
         bbpress,
-        # jetpack,
-        # wp-multibyte-patch,
-        # wordpress-importer,
-        polldaddy,
-        pwa,
+        edit-flow,
+        email-post-changes,
+        hyperdb,
         liveblog,
+        public-post-preview,
+        pwa,
+        polldaddy,
+        supportflow,
         wp-super-cache,
+        wp-cldr,
         custom-content-width
       ]
     subversion:
