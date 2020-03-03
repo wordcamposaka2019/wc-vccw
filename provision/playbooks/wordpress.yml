@@ -116,14 +116,6 @@
       --path={{ path }}
     with_items: "{{ vccw.plugins | default([]) }}"
 
-  # Install wp-multibyte-patch
-  - name: Run `wp plugin install wp-multibyte-patch`
-    command: |
-      wp plugin install wp-multibyte-patch
-      --activate
-      --path={{ path }}
-    when: vccw.lang == 'ja'
-
   # Install Theme
   - name: Run `wp theme install`
     command: |
